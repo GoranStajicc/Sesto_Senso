@@ -71,7 +71,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-[#FF6B35]/20 pt-10 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Napoli. Sva prava zadržana.</p>
+          <p>&copy; {new Date().getFullYear()} Sesto Senso. Sva prava zadržana.</p>
         </div>
       </div>
     </footer>
