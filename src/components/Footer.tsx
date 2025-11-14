@@ -58,7 +58,7 @@ export default function Footer() {
           <div>
             <h4 className="font-bold mb-5 text-lg">Pratite nas</h4>
             <div className="flex gap-4">
-              <a href="https://instagram.com/napoli_picerija" target="_blank" rel="noopener noreferrer" className="bg-[#2A2A2A] p-3.5 rounded-xl hover:bg-[#FF6B35] transition-all duration-300 hover:scale-110 shadow-lg border border-[#FF6B35]/20" aria-label="Instagram">
+              <a href="https://instagram.com/sesto_._senso" target="_blank" rel="noopener noreferrer" className="bg-[#2A2A2A] p-3.5 rounded-xl hover:bg-[#FF6B35] transition-all duration-300 hover:scale-110 shadow-lg border border-[#FF6B35]/20" aria-label="Instagram">
                 <Instagram className="h-5 w-5" />
               </a>
             </div>
