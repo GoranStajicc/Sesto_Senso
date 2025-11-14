@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="public/images/SestoSenso.png" />
+    <link rel="icon" type="image/png" sizes="256x256" href="public/images/SestoSenso.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+    <title>Sesto Senso Restaurant Online Ordering</title>
+  </head>
+  <body>
+    <form name="checkout" netlify netlify-honeypot="bot-field" hidden>
+      <input type="hidden" name="form-name" value="checkout" />
+      <input type="hidden" name="bot-field" />
+      <input type="text" name="full_name" />
+      <input type="hidden" name="delivery_address" />
+      <input type="text" name="apartment_details" />
+      <input type="hidden" name="order_items" />
+      <input type="hidden" name="total_amount" />
+      <textarea name="customer_notes"></textarea>
+      <input type="tel" name="phone" />
+      <input type="email" name="email" />
+      <input type="hidden" name="payment_method" />
+      <input type="hidden" name="payment_status" />
+    </form>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
