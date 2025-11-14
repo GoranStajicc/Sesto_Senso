@@ -24,14 +24,9 @@ export default function Contact() {
               <Phone className="h-7 w-7 text-white" />
             </div>
             <h3 className="font-bold text-white mb-3 text-lg tracking-tight">Telefon 📱</h3>
-            <div className="space-y-2">
-              <a href="tel:+381641116999" className="block text-gray-300 hover:text-[#FF6B35] transition-colors">
-                +381 64 111 6 999
-              </a>
-              <a href="tel:+381112527764" className="block text-gray-300 hover:text-[#FF6B35] transition-colors">
-                +381 11 252 77 64
-              </a>
-            </div>
+            <a href="tel:+381691116999" className="text-gray-300 hover:text-[#FF6B35] transition-colors">
+              +381 069 111 6 999
+            </a>
           </div>
 
           <div className="bg-[#2A2A2A] p-8 rounded-2xl shadow-soft hover:shadow-soft-lg transition-all duration-300 text-center group hover:-translate-y-1 border border-[#FF6B35]/20">
@@ -39,8 +34,8 @@ export default function Contact() {
               <Mail className="h-7 w-7 text-white" />
             </div>
             <h3 className="font-bold text-white mb-3 text-lg tracking-tight">Email ✉️</h3>
-            <a href="mailto:info@napolipizza.rs" className="text-gray-300 hover:text-[#FF6B35] transition-colors">
-              napolidostava@gmail.com
+            <a href="mailto:sesto21senso@gmail.com" className="text-gray-300 hover:text-[#FF6B35] transition-colors">
+              sesto21senso@gmail.com
             </a>
           </div>
 
