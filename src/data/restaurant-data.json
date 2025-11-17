@@ -421,6 +421,19 @@
       "updated_at": "2025-10-27T19:51:58.544081+00:00"
     },
     {
+      "id": "4b570dd8-30cc-40df-afdf-122e81c63c4d",
+      "category_id": "020fa120-c991-45b5-9087-462107d3727d",
+      "name": "Podvarak, domaća lepinja",
+      "description": "Kiseli kupus, suvo meso, domaća lepinja",
+      "price": 750,
+      "image_url": "/kuvana jela/podvarak.png",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 0,
+      "created_at": "2025-11-17T00:00:00.000000+00:00",
+      "updated_at": "2025-11-17T00:00:00.000000+00:00"
+    },
+    {
       "id": "2ca53308-6af4-4a01-a252-5c7decbbfc1c",
       "category_id": "020fa120-c991-45b5-9087-462107d3727d",
       "name": "Mućkalica sa testeninom",
