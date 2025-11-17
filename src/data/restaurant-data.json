@@ -375,7 +375,7 @@
       "description": "Punjena paprika, bareni krompir, domaća lepinja",
       "price": 770,
       "image_url": "/kuvana jela/punjena paprika.png",
-      "is_available": true,
+      "is_available": false,
       "is_featured": false,
       "display_order": 0,
       "created_at": "2025-10-11T15:38:36.780164+00:00",
