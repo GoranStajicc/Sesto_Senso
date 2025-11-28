@@ -962,7 +962,7 @@
       "description": "",
       "price": 450,
       "image_url": "/deserti/ledena kocka.jpg",
-      "is_available": false,
+      "is_available": true,
       "is_featured": false,
       "display_order": 3,
       "created_at": "2025-10-11T11:38:40.775873+00:00",
