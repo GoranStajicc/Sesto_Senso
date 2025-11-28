@@ -800,6 +800,19 @@
       "updated_at": "2025-10-27T19:51:58.544081+00:00"
     },
     {
+      "id": "5e801c27-201b-47a6-9ce7-4d054100b9a1",
+      "category_id": "dea1a0dc-1af9-4da3-b899-3c1508649b65",
+      "name": "Riblje Pljeskavice",
+      "description": "250 gr, domaća lepinja, posni tartar sos",
+      "price": 540,
+      "image_url": "public/ribe/riblje pljeskavice.jpg",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 3,
+      "created_at": "2025-11-28T00:00:00.000000+00:00",
+      "updated_at": "2025-11-28T00:00:00.000000+00:00"
+    },
+    {
       "id": "80a5453f-5525-4da9-b430-5c2ef0215eda",
       "category_id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Žito sa šlagom",
