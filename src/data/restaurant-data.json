@@ -143,7 +143,7 @@
       "display_order": 16,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
-      "image_url": "/pića/Pića.jpg"
+      "image_url": "/pića/pica.jpg"
     }
   ],
   "menuItems": [
@@ -243,7 +243,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Pileći štapići",
       "description": "300 grama - Lepinja, pomfrit, salata",
-      "price": 880,
+      "price": 980,
       "image_url": "/jela po porudzbini/pileci stapici.jpg",
       "is_available": true,
       "is_featured": false,
@@ -269,7 +269,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Piletina u gorgonzola sosu",
       "description": "300 grama - Lepinja, pileći file, gorgonzola sos, pomfrit, sezonska salata",
-      "price": 920,
+      "price": 1020,
       "image_url": "/jela po porudzbini/piletina u gorgonzola sosu.jpg",
       "is_available": true,
       "is_featured": false,
@@ -282,7 +282,7 @@
       "category_id": "020fa120-c991-45b5-9087-462107d3727d",
       "name": "Grašak sa Piletinom",
       "description": "Grašak, domaća lepinja\n\n",
-      "price": 730,
+      "price": 680,
       "image_url": "/kuvana jela/grasak sa piletinom.jpg",
       "is_available": true,
       "is_featured": false,
@@ -295,7 +295,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Piletina u kajmak sosu",
       "description": "300 grama - Lepinja, pileći file, kajmak sos, pomfrit, sezonska salata",
-      "price": 920,
+      "price": 1020,
       "image_url": "/jela po porudzbini/piletina u kajmak sosu.jpg",
       "is_available": true,
       "is_featured": false,
@@ -308,7 +308,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Piletina u kari sosu",
       "description": "300 grama - Lepinja, pileći file, kari sos, pomfrit, sezonska salata",
-      "price": 920,
+      "price": 1020,
       "image_url": "/jela po porudzbini/piletina u kari sosu.jpg",
       "is_available": true,
       "is_featured": false,
@@ -321,7 +321,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Piletina u quattro formaggi sosu",
       "description": "300 grama - Lepinja, pileći file, quattro formaggi sos, pomfrit, sezonska salata",
-      "price": 940,
+      "price": 1040,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -347,7 +347,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Piletina u sosu od pecuraka",
       "description": "300 grama - Lepinja, pileći file, sos od pečuraka, pomfrit, sezonska salata",
-      "price": 920,
+      "price": 1020,
       "image_url": "/jela po porudzbini/piletina u sosu od pecuraka.jpg",
       "is_available": true,
       "is_featured": false,
@@ -375,7 +375,7 @@
       "description": "Punjena paprika, bareni krompir, domaća lepinja",
       "price": 770,
       "image_url": "/kuvana jela/punjena paprika.png",
-      "is_available": false,
+      "is_available": true,
       "is_featured": false,
       "display_order": 0,
       "created_at": "2025-10-11T15:38:36.780164+00:00",
@@ -464,7 +464,7 @@
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
       "name": "Pizza Palačinke (zapečene)",
       "description": "Šunka, kačkavalj, pečurke, kečap, pavlaka, origano",
-      "price": 500,
+      "price": 560,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -478,7 +478,7 @@
       "name": "Coca Cola",
       "description": "",
       "price": 190,
-      "image_url": "/pića/Coca Cola.jpg",
+      "image_url": "/pića/coca cola.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 1,
@@ -491,7 +491,7 @@
       "category_id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Knedle sa šljivama",
       "description": "",
-      "price": 360,
+      "price": 400,
       "image_url": "/deserti/knedle sa sljivama.jpg",
       "is_available": true,
       "is_featured": false,
@@ -504,7 +504,7 @@
       "category_id": "dea1a0dc-1af9-4da3-b899-3c1508649b65",
       "name": "Pastrmka – dimljena",
       "description": "250 grama - File, krompir, blitva, limun, lepinja",
-      "price": 1300,
+      "price": 1650,
       "image_url": "/ribe/pastrmka.jpg",
       "is_available": true,
       "is_featured": false,
@@ -517,7 +517,7 @@
       "category_id": "1f8e6c70-134d-4e9a-949a-3a434d843f97",
       "name": "Italijanske piroške",
       "description": "2 komada - Pelat, kačkavalj, šunka, pečurke, pavlaka, masline, origano",
-      "price": 1100,
+      "price": 1320,
       "image_url": "/italijanski specijaliteti/piroske obicne.jpg",
       "is_available": true,
       "is_featured": false,
@@ -530,7 +530,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Bečka šnicla",
       "description": "300 grama - Lepinja, svinjski but, tartar sos, pomfrit, limun",
-      "price": 920,
+      "price": 1020,
       "image_url": "/jela po porudzbini/becka snicla.jpg",
       "is_available": true,
       "is_featured": false,
@@ -543,13 +543,51 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Margarita",
       "description": "Pelat, kačkavalj, parmezan, masline, origano",
-      "price": 710,
+      "price": 770,
       "image_url": "/pice/margarita pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "marg-28",
+          "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
+          "size_name": "28cm",
+          "price": 770,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "marg-32",
+          "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
+          "size_name": "32cm",
+          "price": 960,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "marg-42",
+          "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
+          "size_name": "42cm",
+          "price": 1250,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "marg-50",
+          "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
+          "size_name": "50cm",
+          "price": 1600,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "9f40ee3b-085e-4950-9201-f66bd9ad2fce",
@@ -569,7 +607,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Klasik sendvič kulen",
       "description": "Lepinja, dimljeni vrat, zelena salata, paradajz",
-      "price": 490,
+      "price": 550,
       "image_url": "/sendvici/klasik kulen sendvic.jpg",
       "is_available": true,
       "is_featured": false,
@@ -582,7 +620,7 @@
       "category_id": "472c9daa-44ba-4f50-95d2-b1f794f3bac7",
       "name": "Palačinka Eurokrem",
       "description": "",
-      "price": 250,
+      "price": 270,
       "image_url": "/slatke palacinke/palacinka krem.jpg",
       "is_available": true,
       "is_featured": false,
@@ -621,7 +659,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Cezar salata",
       "description": "Ajsberg salata, piletina, pančeta, krutoni, majonez, parmezan",
-      "price": 740,
+      "price": 820,
       "image_url": "/salate/cezar salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -635,7 +673,7 @@
       "name": "Guarana",
       "description": "",
       "price": 200,
-      "image_url": "/pića/Guarana.jpg",
+      "image_url": "/pića/guarana.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 2,
@@ -674,7 +712,7 @@
       "category_id": "472c9daa-44ba-4f50-95d2-b1f794f3bac7",
       "name": "Palačinka Marmelada",
       "description": "",
-      "price": 220,
+      "price": 240,
       "image_url": "/slatke palacinke/palacinka marmelada.jpg",
       "is_available": true,
       "is_featured": false,
@@ -713,7 +751,7 @@
       "category_id": "1f8e6c70-134d-4e9a-949a-3a434d843f97",
       "name": "Piroške sa pršutom",
       "description": "2 komada - Pelat, kačkavalj, pršuta, pečurke, pavlaka, masline, origano",
-      "price": 1300,
+      "price": 1500,
       "image_url": "/italijanski specijaliteti/piroske sa prsutom.jpg",
       "is_available": true,
       "is_featured": false,
@@ -726,7 +764,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Karađorđeva šnicla",
       "description": "250 grama - Lepinja, svinjski file, tartar sos, pomfrit, salata, limun, kajmak",
-      "price": 990,
+      "price": 1090,
       "image_url": "/jela po porudzbini/karadjordjeva snicla.jpg",
       "is_available": true,
       "is_featured": false,
@@ -739,7 +777,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Klasik sendvič pečenica",
       "description": "Lepinja, zelena salata, paradajz",
-      "price": 490,
+      "price": 550,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -750,9 +788,9 @@
     {
       "id": "db6facd7-65bd-4f15-b756-0448000e670a",
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
-      "name": "Sesto Senso salata",
+      "name": "Napoli salata",
       "description": "mix zelenih salata, piletina, pančeta, kuvano jaje, grilovane pečurke, dresing",
-      "price": 800,
+      "price": 880,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -765,7 +803,7 @@
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
       "name": "Palačinka",
       "description": "kačkavalj, pečenica, pavlaka",
-      "price": 400,
+      "price": 460,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -778,20 +816,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Fungi",
       "description": "Pelat, kačkavalj, pečurke, masline, origano",
-      "price": 720,
+      "price": 780,
       "image_url": "/pice/fungi pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "fungi-28",
+          "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
+          "size_name": "28cm",
+          "price": 780,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "fungi-32",
+          "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
+          "size_name": "32cm",
+          "price": 990,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "fungi-42",
+          "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
+          "size_name": "42cm",
+          "price": 1300,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "fungi-50",
+          "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
+          "size_name": "50cm",
+          "price": 1650,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "19c1309c-6be3-47a2-8d7b-7aabe7dc5405",
       "category_id": "dea1a0dc-1af9-4da3-b899-3c1508649b65",
       "name": "Riblji štapići",
       "description": "250 grama - Lepinja, tartar sos",
-      "price": 540,
+      "price": 640,
       "image_url": "/ribe/riblji stapici.jpg",
       "is_available": true,
       "is_featured": false,
@@ -804,7 +880,7 @@
       "category_id": "dea1a0dc-1af9-4da3-b899-3c1508649b65",
       "name": "Riblje Pljeskavice",
       "description": "250 gr, domaća lepinja, posni tartar sos",
-      "price": 540,
+      "price": 640,
       "image_url": "/ribe/riblje pljeskavice.jpg",
       "is_available": true,
       "is_featured": false,
@@ -817,7 +893,7 @@
       "category_id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Žito sa šlagom",
       "description": "",
-      "price": 360,
+      "price": 400,
       "image_url": "/deserti/zito sa slagom.jpg",
       "is_available": true,
       "is_featured": false,
@@ -830,7 +906,7 @@
       "category_id": "1f8e6c70-134d-4e9a-949a-3a434d843f97",
       "name": "Piroške sa govedjom pršutom",
       "description": "2 komada - Pelat, kačkavalj, govedja pršuta, pečurke, pavlaka, masline, origano",
-      "price": 1500,
+      "price": 1600,
       "image_url": "/italijanski specijaliteti/piroske obicne.jpg",
       "is_available": true,
       "is_featured": false,
@@ -843,7 +919,7 @@
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
       "name": "Palačinka",
       "description": "kačkavalj, šunka, pavlaka",
-      "price": 400,
+      "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka sunka.jpg",
       "is_available": true,
       "is_featured": false,
@@ -856,7 +932,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Klasik sendvič pršuta",
       "description": "Lepinja, Njeguški pršut, zelena salata, paradajz",
-      "price": 520,
+      "price": 580,
       "image_url": "/sendvici/klasik sendvic sa prsutom.jpg",
       "is_available": true,
       "is_featured": false,
@@ -882,20 +958,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Vezuvio",
       "description": "Pelat, kačkavalj, šunka, masline, origano",
-      "price": 730,
+      "price": 790,
       "image_url": "/pice/vezuvio pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "vezu-28",
+          "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
+          "size_name": "28cm",
+          "price": 790,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vezu-32",
+          "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
+          "size_name": "32cm",
+          "price": 1000,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vezu-42",
+          "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
+          "size_name": "42cm",
+          "price": 1320,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vezu-50",
+          "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
+          "size_name": "50cm",
+          "price": 1700,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "262a5c61-4da5-43fb-aec5-e432a16a50d2",
       "category_id": "472c9daa-44ba-4f50-95d2-b1f794f3bac7",
       "name": "Palačinka Med",
       "description": "",
-      "price": 220,
+      "price": 240,
       "image_url": "/slatke palacinke/palacinka med.jpg",
       "is_available": true,
       "is_featured": false,
@@ -947,7 +1061,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Pileći file",
       "description": "300 grama - Lepinja, pomfrit, salata",
-      "price": 830,
+      "price": 930,
       "image_url": "/jela po porudzbini/pileci file.jpg",
       "is_available": true,
       "is_featured": false,
@@ -974,21 +1088,25 @@
       "name": "Nektar sok",
       "description": "",
       "price": 300,
-      "image_url": "/pića/Nektar sokovi.jpg",
+      "image_url": "/pića/nektar sokovi.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 3,
       "created_at": "2025-10-11T14:59:05.889383+00:00",
       "updated_at": "2025-10-12T14:18:33.931652+00:00",
       "hasAddons": false,
-      "flavors": ["Jabuka", "Breskva", "Pomorandža"]
+      "flavors": [
+        "Jabuka",
+        "Breskva",
+        "Pomorandža"
+      ]
     },
     {
       "id": "e54439eb-ce11-4d77-80f3-14a8bd6d1a91",
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Fitnes salata sa pastrmkom",
       "description": "File pastrmke, miks zelenih salata, radič, rukola, balzamiko dresing, tost",
-      "price": 780,
+      "price": 860,
       "image_url": "/salate/fitnes salata sa pastrmkom.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1014,7 +1132,7 @@
       "category_id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Cheese Cake",
       "description": "",
-      "price": 390,
+      "price": 400,
       "image_url": "/deserti/cheesecake.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1027,7 +1145,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Klasik sendvič šunka",
       "description": "Lepinja, šunka, kačkavalj, zelena salata, paradajz",
-      "price": 470,
+      "price": 530,
       "image_url": "/sendvici/klasik sunka sendvic.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1040,7 +1158,7 @@
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
       "name": "Palačinka",
       "description": "kačkavalj, suvi vrat, pavlaka",
-      "price": 400,
+      "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka suvi vrat.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1054,7 +1172,7 @@
       "name": "Pivo: Heineken",
       "description": "",
       "price": 260,
-      "image_url": "/pića/Heineken.jpg",
+      "image_url": "/pića/heineken.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 4,
@@ -1067,20 +1185,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Vegetarijana",
       "description": "Pelat, biljni kačkavalj, pečurke, paradajz, paprika, tikvice, masline, origano",
-      "price": 730,
+      "price": 790,
       "image_url": "/pice/vegetarijana pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "vege-28",
+          "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
+          "size_name": "28cm",
+          "price": 790,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vege-32",
+          "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
+          "size_name": "32cm",
+          "price": 1000,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vege-42",
+          "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
+          "size_name": "42cm",
+          "price": 1320,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vege-50",
+          "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
+          "size_name": "50cm",
+          "price": 1700,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "ba598cd3-d302-463e-87cd-6eb520e08e14",
       "category_id": "472c9daa-44ba-4f50-95d2-b1f794f3bac7",
       "name": "Palačinka Nutela",
       "description": "",
-      "price": 300,
+      "price": 320,
       "image_url": "/slatke palacinke/palacinka nutela.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1132,7 +1288,7 @@
       "category_id": "1f8e6c70-134d-4e9a-949a-3a434d843f97",
       "name": "Italijanski đevrek",
       "description": "Pavlaka, šunka, kačkavalj, kulen, pečurke, susam",
-      "price": 980,
+      "price": 1280,
       "image_url": "/italijanski specijaliteti/djevrek.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1145,7 +1301,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Fitnes salata sa piletinom",
       "description": "Piletina, miks zelenih salata, radič, rukola, balzamiko dresing, tost",
-      "price": 680,
+      "price": 740,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -1171,13 +1327,51 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Tono posna pica",
       "description": "Pelat, biljni kačkavalj, pečurke, tunjevina, crni luk, masline, origano",
-      "price": 740,
+      "price": 800,
       "image_url": "/pice/tono pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 5,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:58.544081+00:00"
+      "updated_at": "2025-10-27T19:51:58.544081+00:00",
+      "sizes": [
+        {
+          "id": "tono-28",
+          "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
+          "size_name": "28cm",
+          "price": 800,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "tono-32",
+          "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
+          "size_name": "32cm",
+          "price": 1010,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "tono-42",
+          "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
+          "size_name": "42cm",
+          "price": 1330,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "tono-50",
+          "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
+          "size_name": "50cm",
+          "price": 1720,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "3fbc1db0-2d49-4fce-8014-5d5af8bc7578",
@@ -1197,7 +1391,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Klasik sendvič suvi vrat",
       "description": "Lepinja, dimljeni vrat, zelena salata, paradajz",
-      "price": 490,
+      "price": 550,
       "image_url": "/sendvici/klasik sendvic suvi vrat.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1211,7 +1405,7 @@
       "name": "Pivo: Tuborg",
       "description": "",
       "price": 240,
-      "image_url": "/pića/Tuborg.jpg",
+      "image_url": "/pića/tuborg.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 5,
@@ -1224,7 +1418,7 @@
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
       "name": "Palačinka",
       "description": "kačkavalj, kulen, pavlaka",
-      "price": 400,
+      "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka kulen.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1237,7 +1431,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Grčka salata",
       "description": "Paradajz, krastavac, feta, crni luk, masline, paprika, 300 grama",
-      "price": 490,
+      "price": 550,
       "image_url": "/salate/grcka salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1289,7 +1483,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Crispy",
       "description": "Lepinja, kačkavalj, pohovana piletina, zelena salata, tartar sos",
-      "price": 650,
+      "price": 710,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -1342,20 +1536,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Spinaći",
       "description": "Pavlaka, kačkavalj, spanać, jaja, feta, masline, origano",
-      "price": 750,
+      "price": 800,
       "image_url": "/pice/spinacci.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 6,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "spin-28",
+          "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
+          "size_name": "28cm",
+          "price": 800,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "spin-32",
+          "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
+          "size_name": "32cm",
+          "price": 1010,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "spin-42",
+          "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
+          "size_name": "42cm",
+          "price": 1330,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "spin-50",
+          "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
+          "size_name": "50cm",
+          "price": 1700,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "3d773fcd-f950-4075-bb6b-2ba61152e5ce",
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Piletina u susamu",
       "description": "300 grama - Lepinja, pomfrit, salata",
-      "price": 880,
+      "price": 980,
       "image_url": "/jela po porudzbini/piletina susam.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1368,7 +1600,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Italijanska salata",
       "description": "Pasta, šunka, kačkavalj, pavlaka, majonez",
-      "price": 500,
+      "price": 550,
       "image_url": "/salate/italijanska salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1381,7 +1613,7 @@
       "category_id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Baklava – Posno",
       "description": "",
-      "price": 360,
+      "price": 450,
       "image_url": "/deserti/bakalva.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1394,7 +1626,7 @@
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
       "name": "Palačinka",
       "description": "kačkavalj, pršuta, pavlaka",
-      "price": 400,
+      "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka prsuta.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1407,20 +1639,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Voćna pica",
       "description": "Eurokrem, banana, ananas, višnja, kivi, orasi",
-      "price": 750,
+      "price": 810,
       "image_url": "/pice/vocna pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 7,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "vocn-28",
+          "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
+          "size_name": "28cm",
+          "price": 810,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vocn-32",
+          "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
+          "size_name": "32cm",
+          "price": 1010,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vocn-42",
+          "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
+          "size_name": "42cm",
+          "price": 1330,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "vocn-50",
+          "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
+          "size_name": "50cm",
+          "price": 1720,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "f72b58a1-e44a-46d9-b127-05bb475be68b",
       "category_id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Trileće karamel",
       "description": "",
-      "price": 380,
+      "price": 400,
       "image_url": "/deserti/tri lece.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1433,7 +1703,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Pileća salata",
       "description": "Piletina, pavlaka, pečurke, majonez, testenina",
-      "price": 570,
+      "price": 640,
       "image_url": "/salate/pileca salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1446,7 +1716,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Pohovana piletina",
       "description": "300 grama - Lepinja, pomfrit, salata",
-      "price": 880,
+      "price": 980,
       "image_url": "/jela po porudzbini/pohovana piletina.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1472,7 +1742,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Klub sendvič",
       "description": "Tost, majonez, piletina, pančeta, jaje, zelena salata, paradajz, pomfrit",
-      "price": 650,
+      "price": 710,
       "image_url": "/sendvici/klub sendvic.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1486,7 +1756,7 @@
       "name": "Pasta Pesto di pollo",
       "description": "Pesto đenoveze, piletina, pančeta, pavlaka, začini",
       "price": 810,
-      "image_url": "/paste/pasta di pollo.jpg",
+      "image_url": "/paste/pasta pollo.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 7,
@@ -1496,9 +1766,9 @@
     {
       "id": "fb27554d-6df9-4c0c-b7ae-a27b588c9786",
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
-      "name": "Sesto Senso sendvič",
+      "name": "Napoli sendvič",
       "description": "Pavlaka, kačkavalj, pečenica, suvi vrat, paradajz",
-      "price": 550,
+      "price": 610,
       "image_url": "/sendvici/napoli sendvic.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1511,13 +1781,51 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Napoletana",
       "description": "Pelat, kačkavalj, kulen, feferoni, masline, origano",
-      "price": 760,
+      "price": 820,
       "image_url": "/pice/napoletana pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 8,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "napo-28",
+          "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
+          "size_name": "28cm",
+          "price": 820,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "napo-32",
+          "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
+          "size_name": "32cm",
+          "price": 1020,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "napo-42",
+          "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
+          "size_name": "42cm",
+          "price": 1380,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "napo-50",
+          "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
+          "size_name": "50cm",
+          "price": 1740,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "786371a0-8c7b-43b7-b6f1-993f3f6587d5",
@@ -1537,7 +1845,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Šopska salata",
       "description": "Paradajz, paprika, krastavac, luk, feta, 300 grama",
-      "price": 430,
+      "price": 520,
       "image_url": "/salate/sopska salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1563,7 +1871,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Hrskava piletina",
       "description": "300 grama - Lepinja, pileći file, kornfleks, pomfrit, salata",
-      "price": 880,
+      "price": 980,
       "image_url": "/jela po porudzbini/hrskava piletina.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1576,20 +1884,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Kalcone (zatvorena pica)",
       "description": "Pelat, kačkavalj, šunka, pečurke",
-      "price": 770,
+      "price": 830,
       "image_url": "/pice/kalcone pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 9,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:58.544081+00:00"
+      "updated_at": "2025-10-27T19:51:58.544081+00:00",
+      "sizes": [
+        {
+          "id": "kalc-28",
+          "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
+          "size_name": "28cm",
+          "price": 830,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kalc-32",
+          "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
+          "size_name": "32cm",
+          "price": 1040,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kalc-42",
+          "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
+          "size_name": "42cm",
+          "price": 1380,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kalc-50",
+          "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
+          "size_name": "50cm",
+          "price": 1770,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "c686ddc9-b0c4-4dd0-9357-9a32e0f1392b",
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Srpska salata",
       "description": "Paradajz, paprika, krastavac, luk, ljuta paprika, 300 grama",
-      "price": 390,
+      "price": 470,
       "image_url": "/salate/srpska salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1602,7 +1948,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Posni sendvič",
       "description": "Lepinja, kečap, tunjevina, marinirane pečurke, kiseli krastavci",
-      "price": 500,
+      "price": 560,
       "image_url": "/sendvici/posni tuna sendvic.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1641,7 +1987,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Napoli piletina",
       "description": "300 grama - Lepinja, pileći file, pršuta, kačkavalj, belo vino, žalfija, pomfrit, salata",
-      "price": 950,
+      "price": 1050,
       "image_url": "/jela po porudzbini/napoli piletina.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1654,7 +2000,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Pohovani kačkavalj",
       "description": "300 grama - Lepinja, tartar sos",
-      "price": 700,
+      "price": 800,
       "image_url": "/jela po porudzbini/pohovani kackavalj.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1667,20 +2013,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Kaprićoza",
       "description": "Pelat, kačkavalj, šunka, pečurke, masline, origano",
-      "price": 770,
+      "price": 820,
       "image_url": "/pice/kapricoza.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 10,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "kapr-28",
+          "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
+          "size_name": "28cm",
+          "price": 820,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kapr-32",
+          "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
+          "size_name": "32cm",
+          "price": 1040,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kapr-42",
+          "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
+          "size_name": "42cm",
+          "price": 1380,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kapr-50",
+          "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
+          "size_name": "50cm",
+          "price": 1770,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "2707b7b3-322d-475a-8de3-c1ed801ba6e4",
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Srpski sendvič",
       "description": "Lepinja, kajmak, Njeguški pršut, jaje, paradajz, zelena salata",
-      "price": 560,
+      "price": 610,
       "image_url": "/sendvici/srpski sendvic.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1693,7 +2077,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Paradajz sa sirom",
       "description": "",
-      "price": 400,
+      "price": 480,
       "image_url": "/salate/paradajz sa sirom.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1732,13 +2116,51 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Sicilijana",
       "description": "Pelat, kačkavalj, šunka, jaja, masline, origano",
-      "price": 760,
+      "price": 820,
       "image_url": "/pice/sicilijana pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 11,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "sici-28",
+          "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
+          "size_name": "28cm",
+          "price": 820,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "sici-32",
+          "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
+          "size_name": "32cm",
+          "price": 1030,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "sici-42",
+          "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
+          "size_name": "42cm",
+          "price": 1370,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "sici-50",
+          "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
+          "size_name": "50cm",
+          "price": 1670,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "8637d2c0-8ecd-41d9-b8ca-5e51fc21d4c6",
@@ -1758,7 +2180,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Paradajz sa Lukom",
       "description": "",
-      "price": 400,
+      "price": 460,
       "image_url": "/salate/paradajz salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1771,7 +2193,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Pomfrit",
       "description": "200 grama",
-      "price": 320,
+      "price": 380,
       "image_url": "/jela po porudzbini/pomfrit.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1797,7 +2219,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Tost sa pršutom",
       "description": "Tost, majonez, pršuta, zelena salata, paradajz, pomfrit",
-      "price": 650,
+      "price": 710,
       "image_url": "/sendvici/tost prsuta.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1808,7 +2230,7 @@
     {
       "id": "f2ac1320-5932-4589-be5b-f5322b12248f",
       "category_id": "ab6e3102-b45c-477a-a005-79de567085e6",
-      "name": "Pasta Sesto Senso",
+      "name": "Pasta Napoli",
       "description": "Pavlaka, piletina, govedja pršuta, pečurke, tikvice, beli luk",
       "price": 870,
       "image_url": "/paste/napoli pasta.png",
@@ -1823,7 +2245,7 @@
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Tost sa šunkom",
       "description": "Tost, majonez, šunka, zelena salata, kiseli krastavci, jaje, pomfrit",
-      "price": 630,
+      "price": 690,
       "image_url": "",
       "is_available": true,
       "is_featured": false,
@@ -1836,7 +2258,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Paradajz salata",
       "description": "Paradajz, 300 grama",
-      "price": 360,
+      "price": 450,
       "image_url": "/salate/paradajz salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1849,20 +2271,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Galija",
       "description": "Pelat, kačkavalj, šunka, pečurke, jaje, masline, origano",
-      "price": 780,
+      "price": 840,
       "image_url": "/pice/galija pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 12,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "gali-28",
+          "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
+          "size_name": "28cm",
+          "price": 840,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "gali-32",
+          "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
+          "size_name": "32cm",
+          "price": 1050,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "gali-42",
+          "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
+          "size_name": "42cm",
+          "price": 1400,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "gali-50",
+          "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
+          "size_name": "50cm",
+          "price": 1820,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "9a78769f-9ab7-4417-b3f5-100396413e08",
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Srpski tanjir – meze",
       "description": "800 grama - Dve lepinje, šunka, kačkavalj, suvi vrat, kulen, pečenica, pršut, kajmak, masline, čvarci",
-      "price": 2200,
+      "price": 2520,
       "image_url": "/jela po porudzbini/srpski tanjir meze.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1888,7 +2348,7 @@
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Kineska piletina",
       "description": "Lepinja, pileći file, pirinač, pečurke, kupus, tikvice, paprika, soja sos, Worchester sos",
-      "price": 920,
+      "price": 1020,
       "image_url": "/jela po porudzbini/kineska piletina.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1901,7 +2361,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Kupus salata",
       "description": "",
-      "price": 340,
+      "price": 400,
       "image_url": "/salate/kupus salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1914,20 +2374,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Susam pica",
       "description": "Pelat, kačkavalj, šunka, pečurke, susam, masline, origano",
-      "price": 780,
+      "price": 840,
       "image_url": "/pice/susam pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 13,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:58.544081+00:00"
+      "updated_at": "2025-10-27T19:51:58.544081+00:00",
+      "sizes": [
+        {
+          "id": "susa-28",
+          "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
+          "size_name": "28cm",
+          "price": 840,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "susa-32",
+          "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
+          "size_name": "32cm",
+          "price": 1050,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "susa-42",
+          "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
+          "size_name": "42cm",
+          "price": 1400,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "susa-50",
+          "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
+          "size_name": "50cm",
+          "price": 1820,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "b821367a-8984-408c-ae96-cdbd345cbb4c",
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Meksiko piletina",
       "description": "Lepinja, pileći file, paprika, paradajz, crni luk, ljuta paprika",
-      "price": 920,
+      "price": 1020,
       "image_url": "/jela po porudzbini/meksiko piletina.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1940,7 +2438,7 @@
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Tuna salata",
       "description": "Tunjevina, luk, paradajz, krastavac, masline, limun",
-      "price": 530,
+      "price": 590,
       "image_url": "/salate/tuna salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1953,20 +2451,58 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Quattro stagioni",
       "description": "Pelat, kačkavalj, šunka, pečurke, jaje, kulen, masline, origano",
-      "price": 830,
+      "price": 890,
       "image_url": "/pice/quattro staggioni pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 14,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "quat-28",
+          "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
+          "size_name": "28cm",
+          "price": 890,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "quat-32",
+          "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
+          "size_name": "32cm",
+          "price": 1090,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "quat-42",
+          "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
+          "size_name": "42cm",
+          "price": 1500,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "quat-50",
+          "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
+          "size_name": "50cm",
+          "price": 1870,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "58912c23-b74e-4861-b25a-05a5c1789db8",
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Voćna salata",
       "description": "Jabuka, banana, narandža, kivi, ananas, orasi, šlag, toping, 300 grama",
-      "price": 460,
+      "price": 550,
       "image_url": "/salate/vocna salata.jpg",
       "is_available": true,
       "is_featured": false,
@@ -1979,169 +2515,663 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Specijale",
       "description": "Pelat, kačkavalj, šunka, pečurke, jaje, kulen, feferoni, masline, origano",
-      "price": 850,
+      "price": 910,
       "image_url": "/pice/speciale pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 15,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:58.544081+00:00"
+      "updated_at": "2025-10-27T19:51:58.544081+00:00",
+      "sizes": [
+        {
+          "id": "spec-28",
+          "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
+          "size_name": "28cm",
+          "price": 910,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "spec-32",
+          "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
+          "size_name": "32cm",
+          "price": 1110,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "spec-42",
+          "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
+          "size_name": "42cm",
+          "price": 1520,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "spec-50",
+          "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
+          "size_name": "50cm",
+          "price": 1900,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Diavola",
       "description": "Pelat, kačkavalj, šunka, kulen, pančeta, tabasko, masline, origano",
-      "price": 830,
+      "price": 890,
       "image_url": "/pice/diavola pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 16,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "diav-28",
+          "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
+          "size_name": "28cm",
+          "price": 890,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "diav-32",
+          "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
+          "size_name": "32cm",
+          "price": 1100,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "diav-42",
+          "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
+          "size_name": "42cm",
+          "price": 1510,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "diav-50",
+          "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
+          "size_name": "50cm",
+          "price": 1870,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Cezar",
       "description": "Pavlaka, kačkavalj, piletina, pančeta, parmezan, ajsberg, dresing, masline, origano",
-      "price": 890,
+      "price": 950,
       "image_url": "/pice/cezar pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 17,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "ceza-28",
+          "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
+          "size_name": "28cm",
+          "price": 950,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "ceza-32",
+          "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
+          "size_name": "32cm",
+          "price": 1160,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "ceza-42",
+          "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
+          "size_name": "42cm",
+          "price": 1560,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "ceza-50",
+          "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
+          "size_name": "50cm",
+          "price": 2000,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "e56e067c-5524-459a-8bc7-bece3f47a930",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Carska pica",
       "description": "Pavlaka, kačkavalj, piletina, duvan čvarci, feta, paradajz, masline, origano",
-      "price": 890,
+      "price": 950,
       "image_url": "/pice/carska pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 18,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "cars-28",
+          "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
+          "size_name": "28cm",
+          "price": 950,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "cars-32",
+          "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
+          "size_name": "32cm",
+          "price": 1160,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "cars-42",
+          "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
+          "size_name": "42cm",
+          "price": 1560,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "cars-50",
+          "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
+          "size_name": "50cm",
+          "price": 2000,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Marinare",
       "description": "Pelat, kačkavalj, plodovi mora, masline, origano",
-      "price": 910,
+      "price": 970,
       "image_url": "/pice/marinara pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 19,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:58.544081+00:00"
+      "updated_at": "2025-10-27T19:51:58.544081+00:00",
+      "sizes": [
+        {
+          "id": "mari-28",
+          "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
+          "size_name": "28cm",
+          "price": 970,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "mari-32",
+          "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
+          "size_name": "32cm",
+          "price": 1180,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "mari-42",
+          "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
+          "size_name": "42cm",
+          "price": 1620,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "mari-50",
+          "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
+          "size_name": "50cm",
+          "price": 2020,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Prosciutto",
       "description": "Pelat, kačkavalj, pečurke, Njeguška pršuta, paradajz, masline, origano",
-      "price": 910,
+      "price": 970,
       "image_url": "/pice/prosciutto pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 20,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "pros-28",
+          "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
+          "size_name": "28cm",
+          "price": 970,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "pros-32",
+          "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
+          "size_name": "32cm",
+          "price": 1180,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "pros-42",
+          "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
+          "size_name": "42cm",
+          "price": 1620,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "pros-50",
+          "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
+          "size_name": "50cm",
+          "price": 2040,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Quattro formaggi",
       "description": "Pelat, kačkavalj, gorgonzola, parmezan, feta, masline, origano",
-      "price": 870,
+      "price": 930,
       "image_url": "/pice/quattro formagi pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 21,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "qfor-28",
+          "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
+          "size_name": "28cm",
+          "price": 930,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "qfor-32",
+          "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
+          "size_name": "32cm",
+          "price": 1170,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "qfor-42",
+          "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
+          "size_name": "42cm",
+          "price": 1540,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "qfor-50",
+          "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
+          "size_name": "50cm",
+          "price": 1970,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Srpska",
       "description": "Pelat, kačkavalj, pančeta, pečurke, jaje, suvi vrat, kajmak, feferoni, masline, origano",
-      "price": 880,
+      "price": 940,
       "image_url": "/pice/srpska pica.png",
       "is_available": true,
       "is_featured": false,
       "display_order": 22,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "srp-28",
+          "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
+          "size_name": "28cm",
+          "price": 940,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "srp-32",
+          "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
+          "size_name": "32cm",
+          "price": 1060,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "srp-42",
+          "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
+          "size_name": "42cm",
+          "price": 1580,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "srp-50",
+          "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
+          "size_name": "50cm",
+          "price": 1970,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
-      "name": "Sesto Senso",
+      "name": "Napoli",
       "description": "Pelat, kačkavalj, šunka, suvi vrat, pečurke, pančeta, kulen, jaje, pavlaka, masline, origano",
-      "price": 950,
+      "price": 1010,
       "image_url": "/pice/napoli pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 23,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "nap-28",
+          "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
+          "size_name": "28cm",
+          "price": 1010,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "nap-32",
+          "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
+          "size_name": "32cm",
+          "price": 1230,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "nap-42",
+          "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
+          "size_name": "42cm",
+          "price": 1640,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "nap-50",
+          "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
+          "size_name": "50cm",
+          "price": 2040,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Kraljevska pica",
       "description": "Pelat, kačkavalj, kulen, suvi vrat, kajmak, pančeta, masline, origano",
-      "price": 950,
+      "price": 1010,
       "image_url": "/pice/kraljevska pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 24,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "kralj-28",
+          "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
+          "size_name": "28cm",
+          "price": 1010,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kralj-32",
+          "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
+          "size_name": "32cm",
+          "price": 1230,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kralj-42",
+          "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
+          "size_name": "42cm",
+          "price": 1640,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "kralj-50",
+          "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
+          "size_name": "50cm",
+          "price": 2040,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Hawaii",
       "description": "Pelat, kačkavalj, šunka, ananas, masline, origano",
-      "price": 790,
+      "price": 850,
       "image_url": "/pice/hawaii pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 25,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "haw-28",
+          "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
+          "size_name": "28cm",
+          "price": 850,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "haw-32",
+          "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
+          "size_name": "32cm",
+          "price": 1180,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "haw-42",
+          "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
+          "size_name": "42cm",
+          "price": 1570,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "haw-50",
+          "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
+          "size_name": "50cm",
+          "price": 1920,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Paragina",
       "description": "Pelat, kačkavalj, mocarela, njeguški pršut, rukola, parmezan, masline, origano",
-      "price": 950,
+      "price": 1010,
       "image_url": "/pice/paragina pica.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 26,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "para-28",
+          "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
+          "size_name": "28cm",
+          "price": 1010,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "para-32",
+          "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
+          "size_name": "32cm",
+          "price": 1230,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "para-42",
+          "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
+          "size_name": "42cm",
+          "price": 1640,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "para-50",
+          "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
+          "size_name": "50cm",
+          "price": 2040,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     },
     {
       "id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Buffalo",
       "description": "Pelat, kačkavalj, pečurke, govedji pršut, rukola, crvena paprika, čeri paradajz, parmezan, masline, origano",
-      "price": 1000,
+      "price": 1060,
       "image_url": "/pice/buffalo pica.png",
       "is_available": true,
       "is_featured": false,
       "display_order": 27,
       "created_at": "2025-10-11T11:30:01.95968+00:00",
-      "updated_at": "2025-10-27T19:51:52.755996+00:00"
+      "updated_at": "2025-10-27T19:51:52.755996+00:00",
+      "sizes": [
+        {
+          "id": "buff-28",
+          "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
+          "size_name": "28cm",
+          "price": 1060,
+          "is_available": true,
+          "display_order": 1,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "buff-32",
+          "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
+          "size_name": "32cm",
+          "price": 1330,
+          "is_available": true,
+          "display_order": 2,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "buff-42",
+          "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
+          "size_name": "42cm",
+          "price": 1770,
+          "is_available": true,
+          "display_order": 3,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        },
+        {
+          "id": "buff-50",
+          "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
+          "size_name": "50cm",
+          "price": 2220,
+          "is_available": true,
+          "display_order": 4,
+          "created_at": "2025-10-11T11:30:01.95968+00:00"
+        }
+      ]
     }
   ],
   "menuItemSizes": [
@@ -2149,7 +3179,7 @@
       "id": "16095d52-ef4d-4131-be60-81fb9f1e4a95",
       "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
       "size_name": "28 cm",
-      "price": 910,
+      "price": 970,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2158,7 +3188,7 @@
       "id": "41136e33-b3e7-4794-a52c-6d75ee5e4d6b",
       "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
       "size_name": "32 cm",
-      "price": 1100,
+      "price": 1180,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2167,7 +3197,7 @@
       "id": "f1ea6249-c616-49a7-85cd-17e1932968c3",
       "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
       "size_name": "42 cm",
-      "price": 1500,
+      "price": 1620,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2176,7 +3206,7 @@
       "id": "cf12e1da-66a6-4a79-8fa8-94fc70cc4e4e",
       "menu_item_id": "02dd274a-94e2-4729-9adc-cf0c9c662896",
       "size_name": "50 cm",
-      "price": 1920,
+      "price": 2040,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2194,7 +3224,7 @@
       "id": "84dfbe88-9b74-4f14-9bbf-da3bc8e1bd3b",
       "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
       "size_name": "28 cm",
-      "price": 830,
+      "price": 890,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2203,7 +3233,7 @@
       "id": "e561ff6e-c459-4115-9117-3fbb1c7f916a",
       "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
       "size_name": "32 cm",
-      "price": 1020,
+      "price": 1100,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2212,7 +3242,7 @@
       "id": "a4c45065-577f-4502-bc32-a20d501d6bba",
       "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
       "size_name": "42 cm",
-      "price": 1390,
+      "price": 1510,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2221,7 +3251,7 @@
       "id": "6113bbed-7415-4cd2-b047-e38b43642b55",
       "menu_item_id": "1095db3d-1a91-4a2e-8d84-71d7934a8868",
       "size_name": "50 cm",
-      "price": 1750,
+      "price": 1870,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2230,7 +3260,7 @@
       "id": "29e5678b-5398-4b88-8848-7cc7fbba095f",
       "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
       "size_name": "28 cm",
-      "price": 1000,
+      "price": 1060,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2239,7 +3269,7 @@
       "id": "1c9e4487-12a1-430e-9785-7f03bbdf41b0",
       "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
       "size_name": "32 cm",
-      "price": 1250,
+      "price": 1330,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2248,7 +3278,7 @@
       "id": "6c7a8820-341a-41ff-b09a-9a055f467823",
       "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
       "size_name": "42 cm",
-      "price": 1650,
+      "price": 1770,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2257,7 +3287,7 @@
       "id": "ed534219-789c-425e-85a7-93862d1d783a",
       "menu_item_id": "157d58d4-f630-4984-914e-2c9522f1ea3f",
       "size_name": "50 cm",
-      "price": 2100,
+      "price": 2220,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2266,7 +3296,7 @@
       "id": "0bf733cd-7cc7-4471-8bac-a94aee0e0285",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "28 cm",
-      "price": 910,
+      "price": 970,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2275,7 +3305,7 @@
       "id": "361225e6-aff4-4bd8-8a46-ef27856cba88",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "32 cm",
-      "price": 1100,
+      "price": 1180,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2284,7 +3314,7 @@
       "id": "6c16956d-3c44-43d3-8750-3ad124ddd04b",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "42 cm",
-      "price": 1500,
+      "price": 1620,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2293,7 +3323,7 @@
       "id": "f786d305-e871-4718-94a2-39ffb3ac09a8",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "50 cm",
-      "price": 1900,
+      "price": 2020,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2302,7 +3332,7 @@
       "id": "d7564865-64fa-48f8-9143-b696157f0df0",
       "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
       "size_name": "28 cm",
-      "price": 950,
+      "price": 1010,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2311,7 +3341,7 @@
       "id": "f20c99ef-c583-4527-a275-d8704e5f9d9e",
       "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
       "size_name": "32 cm",
-      "price": 1150,
+      "price": 1230,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2320,7 +3350,7 @@
       "id": "cea41d8e-a204-4114-8168-3c7d7c7ebdc0",
       "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
       "size_name": "42 cm",
-      "price": 1520,
+      "price": 1640,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2329,7 +3359,7 @@
       "id": "39db99fd-0f31-4a1c-86c9-3b82895c133c",
       "menu_item_id": "1961852d-f701-4e6e-89b0-6c290bf1e93d",
       "size_name": "50 cm",
-      "price": 1920,
+      "price": 2040,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2338,7 +3368,7 @@
       "id": "049f53d7-80c2-4cf0-bd92-dec8305bd49b",
       "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
       "size_name": "28 cm",
-      "price": 790,
+      "price": 850,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2347,7 +3377,7 @@
       "id": "e06f8181-a867-4f02-b88a-c63645f41944",
       "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
       "size_name": "32 cm",
-      "price": 1100,
+      "price": 1180,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2356,7 +3386,7 @@
       "id": "b4ce4326-b753-465b-9f84-1c283dfa50b8",
       "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
       "size_name": "42 cm",
-      "price": 1450,
+      "price": 1570,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2365,7 +3395,7 @@
       "id": "4902d1a5-17a7-41c3-8f2c-601becd1bc07",
       "menu_item_id": "31e8dc36-09eb-4c8f-818e-e3224090e54c",
       "size_name": "50 cm",
-      "price": 1800,
+      "price": 1920,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2374,7 +3404,7 @@
       "id": "79b3f420-c260-458c-bd28-0c66a05f0ba9",
       "menu_item_id": "35313fa3-7124-43ba-9588-2c03f1ad993e",
       "size_name": "500 grama",
-      "price": 980,
+      "price": 1200,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:35:55.37103+00:00"
@@ -2383,7 +3413,7 @@
       "id": "574b9c0b-fa38-4d05-8801-1094a914836c",
       "menu_item_id": "35313fa3-7124-43ba-9588-2c03f1ad993e",
       "size_name": "1 kg",
-      "price": 1300,
+      "price": 1700,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:35:55.37103+00:00"
@@ -2392,7 +3422,7 @@
       "id": "33479867-07df-4772-a67b-89a8e3288261",
       "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
       "size_name": "28 cm",
-      "price": 870,
+      "price": 930,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2401,7 +3431,7 @@
       "id": "f693c717-aa12-4cbc-bd88-cf6147e4f766",
       "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
       "size_name": "32 cm",
-      "price": 1090,
+      "price": 1170,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2410,7 +3440,7 @@
       "id": "13e3ed19-b094-445c-85be-de5d4d14a3af",
       "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
       "size_name": "42 cm",
-      "price": 1420,
+      "price": 1540,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2419,7 +3449,7 @@
       "id": "f5bbe5b0-6d00-4445-b69f-c6077bd5a6bb",
       "menu_item_id": "36feb5b9-01cf-4c54-b696-a3d2951e54da",
       "size_name": "50 cm",
-      "price": 1850,
+      "price": 1970,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2428,7 +3458,7 @@
       "id": "d26f1639-a27e-42eb-a57e-683027571b84",
       "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
       "size_name": "28 cm",
-      "price": 730,
+      "price": 790,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2437,7 +3467,7 @@
       "id": "be675def-afd8-46c3-9731-cdeb434859e3",
       "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
       "size_name": "32 cm",
-      "price": 920,
+      "price": 1000,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2446,7 +3476,7 @@
       "id": "51c0d100-e5f9-4953-9d5e-f7981947482b",
       "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
       "size_name": "42 cm",
-      "price": 1200,
+      "price": 1320,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2455,7 +3485,7 @@
       "id": "92bb1652-573d-4549-9387-d9652589db59",
       "menu_item_id": "45879d27-41a4-4190-bcd2-fc08a6c219e9",
       "size_name": "50 cm",
-      "price": 1580,
+      "price": 1700,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2464,7 +3494,7 @@
       "id": "ae905af9-64b1-4837-8d03-39bccfb7c191",
       "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
       "size_name": "28 cm",
-      "price": 780,
+      "price": 840,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2473,7 +3503,7 @@
       "id": "239f8a9b-1c08-4f6f-85c3-6efc53389828",
       "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
       "size_name": "32 cm",
-      "price": 970,
+      "price": 1050,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2482,7 +3512,7 @@
       "id": "2de16cc5-07ca-4b23-9770-9c49aa3bc041",
       "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
       "size_name": "42 cm",
-      "price": 1280,
+      "price": 1400,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2491,7 +3521,7 @@
       "id": "c266f8eb-57a7-4bac-99b0-d8ff6055d251",
       "menu_item_id": "487c5a12-28bd-416c-ad81-22b85af793b4",
       "size_name": "50 cm",
-      "price": 1700,
+      "price": 1820,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2536,7 +3566,7 @@
       "id": "6d12029e-f9dc-4d2c-a94d-cfb4dfe90216",
       "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
       "size_name": "28 cm",
-      "price": 880,
+      "price": 940,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2545,7 +3575,7 @@
       "id": "acf7157b-fc45-4882-88fa-5b8709b11d5d",
       "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
       "size_name": "32 cm",
-      "price": 1080,
+      "price": 1060,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2554,7 +3584,7 @@
       "id": "f1423cfe-930d-48bf-b0b4-0096730f18f2",
       "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
       "size_name": "42 cm",
-      "price": 1460,
+      "price": 1580,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2563,7 +3593,7 @@
       "id": "8c2ccfe9-87b6-4555-8b29-9ca14afd66a3",
       "menu_item_id": "52c0e87f-7bee-4036-bf59-3df45ceaf5a7",
       "size_name": "50 cm",
-      "price": 1850,
+      "price": 1970,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2572,7 +3602,7 @@
       "id": "3047276b-4399-4f95-8d41-ee28b8c7f5b7",
       "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
       "size_name": "28 cm",
-      "price": 890,
+      "price": 950,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2581,7 +3611,7 @@
       "id": "f97a9cd2-d39d-4895-a077-891b2ccdd5f8",
       "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
       "size_name": "32 cm",
-      "price": 1080,
+      "price": 1160,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2590,7 +3620,7 @@
       "id": "f76657b5-bd9b-401f-8255-489e5121bd19",
       "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
       "size_name": "42 cm",
-      "price": 1440,
+      "price": 1560,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2599,7 +3629,7 @@
       "id": "1ed192a9-25f3-4901-bb2d-83af539da095",
       "menu_item_id": "576c22d9-203c-475f-9ffb-5196c45fab7b",
       "size_name": "50 cm",
-      "price": 1880,
+      "price": 2000,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2608,7 +3638,7 @@
       "id": "4cca315b-6fe2-4601-892e-aea078bda021",
       "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
       "size_name": "28 cm",
-      "price": 850,
+      "price": 910,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2617,7 +3647,7 @@
       "id": "1a51b893-467f-41be-a298-07187eaa8a31",
       "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
       "size_name": "32 cm",
-      "price": 1030,
+      "price": 1110,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2626,7 +3656,7 @@
       "id": "7e568a50-7373-4d48-9c8f-dc09caae7206",
       "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
       "size_name": "42 cm",
-      "price": 1400,
+      "price": 1520,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2635,7 +3665,7 @@
       "id": "a0920312-e1c3-4f33-8c80-fea787dd9c65",
       "menu_item_id": "5c2a517e-6bae-40ba-8970-ade859e7099f",
       "size_name": "50 cm",
-      "price": 1780,
+      "price": 1900,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2644,7 +3674,7 @@
       "id": "378d423e-0a49-4a31-afbd-9371f32437f3",
       "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
       "size_name": "28 cm",
-      "price": 750,
+      "price": 810,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2653,7 +3683,7 @@
       "id": "31a81ab8-ba0a-4cbd-95e1-8e766c31b6d3",
       "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
       "size_name": "32 cm",
-      "price": 930,
+      "price": 1010,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2662,7 +3692,7 @@
       "id": "42d36f1a-f1e4-40c2-a088-e4ce0c3a47d9",
       "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
       "size_name": "42 cm",
-      "price": 1210,
+      "price": 1330,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2671,7 +3701,7 @@
       "id": "bd396219-7579-463b-a0d3-d44f472e6603",
       "menu_item_id": "5c2c637e-30ae-4a4a-8fbc-b073be23a0b3",
       "size_name": "50 cm",
-      "price": 1600,
+      "price": 1720,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2689,7 +3719,7 @@
       "id": "6673383e-367f-45b5-946b-b6c61420d860",
       "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
       "size_name": "28 cm",
-      "price": 950,
+      "price": 1010,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2698,7 +3728,7 @@
       "id": "064d29ab-0454-46d9-bc6c-4d1d2fd3d460",
       "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
       "size_name": "32 cm",
-      "price": 1150,
+      "price": 1230,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2707,7 +3737,7 @@
       "id": "2ca15a57-0d4c-4d74-a2b0-7f8abdc2f92c",
       "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
       "size_name": "42 cm",
-      "price": 1520,
+      "price": 1640,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2716,7 +3746,7 @@
       "id": "4f68962f-a1f3-441b-829d-46d35314950b",
       "menu_item_id": "63ae3aac-d0ca-42ce-8dda-c0ef889589b6",
       "size_name": "50 cm",
-      "price": 1920,
+      "price": 2040,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2743,7 +3773,7 @@
       "id": "a04c60ca-06a1-44d3-a6f6-cf27debeb56e",
       "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
       "size_name": "28 cm",
-      "price": 760,
+      "price": 820,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2752,7 +3782,7 @@
       "id": "b348e5ea-86b4-4237-96c9-a25054f35b1f",
       "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
       "size_name": "32 cm",
-      "price": 950,
+      "price": 1030,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2761,7 +3791,7 @@
       "id": "62634543-6c0a-4744-9a3e-fd2aee15d5ed",
       "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
       "size_name": "42 cm",
-      "price": 1250,
+      "price": 1370,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2770,7 +3800,7 @@
       "id": "0f70d2f3-bae8-4163-bbd5-25b5b6fffa6f",
       "menu_item_id": "8477894c-1140-4e9b-aed7-21a65f3a30e5",
       "size_name": "50 cm",
-      "price": 1550,
+      "price": 1670,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2779,7 +3809,7 @@
       "id": "49c15ca9-0f91-4096-8275-0ee2617f2e90",
       "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
       "size_name": "28 cm",
-      "price": 740,
+      "price": 800,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2788,7 +3818,7 @@
       "id": "cb7d3dd3-9b6a-4561-812a-e3f644a2bdea",
       "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
       "size_name": "32 cm",
-      "price": 930,
+      "price": 1010,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2797,7 +3827,7 @@
       "id": "b44c4f38-74ee-4c22-a884-2f9260ab5d9a",
       "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
       "size_name": "42 cm",
-      "price": 1210,
+      "price": 1330,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2806,7 +3836,7 @@
       "id": "80cd1cd2-f3f5-4e34-b3b1-00d554f67dab",
       "menu_item_id": "84b9c655-4bf8-45e7-ae97-644487c78c8b",
       "size_name": "50 cm",
-      "price": 1600,
+      "price": 1720,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2824,7 +3854,7 @@
       "id": "313b5463-6612-4437-b1e0-3d6a41595995",
       "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
       "size_name": "28 cm",
-      "price": 710,
+      "price": 770,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2833,7 +3863,7 @@
       "id": "a544db88-e30d-4351-adc3-991c0a8f9761",
       "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
       "size_name": "32 cm",
-      "price": 880,
+      "price": 960,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2842,7 +3872,7 @@
       "id": "dd9a0fc3-777c-4849-82c8-e1e69d303231",
       "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
       "size_name": "42 cm",
-      "price": 1130,
+      "price": 1250,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2851,7 +3881,7 @@
       "id": "edb7faaf-36c1-4114-8adb-c29d0c0eba83",
       "menu_item_id": "a923a511-362a-4ea7-a345-a22eceb93bc2",
       "size_name": "50 cm",
-      "price": 1480,
+      "price": 1600,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2860,7 +3890,7 @@
       "id": "c7ae816b-58eb-4676-8252-b6fc78298ed1",
       "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
       "size_name": "28 cm",
-      "price": 760,
+      "price": 820,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2869,7 +3899,7 @@
       "id": "b4a3ec87-c663-4cc3-83fa-e3cfb8004df7",
       "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
       "size_name": "32 cm",
-      "price": 940,
+      "price": 1020,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2878,7 +3908,7 @@
       "id": "63328674-f84f-40ed-9c1c-af5ad932d882",
       "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
       "size_name": "42 cm",
-      "price": 1260,
+      "price": 1380,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2887,7 +3917,7 @@
       "id": "139590a5-0205-4c60-9f7d-33bc302617e5",
       "menu_item_id": "af8596b9-5f64-4427-96de-e58765e030f6",
       "size_name": "50 cm",
-      "price": 1620,
+      "price": 1740,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2896,7 +3926,7 @@
       "id": "55093cd3-46a7-42af-942b-ab6772bcbd48",
       "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
       "size_name": "28 cm",
-      "price": 770,
+      "price": 820,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2905,7 +3935,7 @@
       "id": "790a096f-ec16-4012-8db3-08c411e7212d",
       "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
       "size_name": "32 cm",
-      "price": 960,
+      "price": 1040,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2914,7 +3944,7 @@
       "id": "557a9ddd-a0f5-4a1b-9562-9141651fa85e",
       "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
       "size_name": "42 cm",
-      "price": 1260,
+      "price": 1380,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2923,7 +3953,7 @@
       "id": "8685ec0c-d2cb-4968-ac6c-2eedefb91c18",
       "menu_item_id": "b5bd66ef-77f2-490d-8c0f-fea60d333557",
       "size_name": "50 cm",
-      "price": 1650,
+      "price": 1770,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2932,7 +3962,7 @@
       "id": "8ad8b8bd-1e39-4a3f-b5ea-e736c876b413",
       "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
       "size_name": "28 cm",
-      "price": 780,
+      "price": 840,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2941,7 +3971,7 @@
       "id": "a95abe6c-64f0-4a4c-928c-0748cf08e851",
       "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
       "size_name": "32 cm",
-      "price": 970,
+      "price": 1050,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2950,7 +3980,7 @@
       "id": "66344828-d6fd-41e5-b9fb-e438811fdaf9",
       "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
       "size_name": "42 cm",
-      "price": 1280,
+      "price": 1400,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2959,7 +3989,7 @@
       "id": "6862110b-91ae-46f0-8534-6ce4adca8d34",
       "menu_item_id": "baff5fa9-25ed-4710-9235-67d3b65d6189",
       "size_name": "50 cm",
-      "price": 1700,
+      "price": 1820,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2968,7 +3998,7 @@
       "id": "74040684-3fc9-4cf7-baef-40e308aa8623",
       "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
       "size_name": "28 cm",
-      "price": 770,
+      "price": 830,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2977,7 +4007,7 @@
       "id": "71ffd8c4-ca25-4bf0-ab2a-862e8e7009ec",
       "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
       "size_name": "32 cm",
-      "price": 960,
+      "price": 1040,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2986,7 +4016,7 @@
       "id": "7146f8df-1825-49b6-95f9-5ce66b2cab8a",
       "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
       "size_name": "42 cm",
-      "price": 1260,
+      "price": 1380,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -2995,7 +4025,7 @@
       "id": "04aeca6e-3ad9-4379-a3bf-ac153b67eb25",
       "menu_item_id": "c336f8e7-32fc-4d95-b359-fbdb7381d9a9",
       "size_name": "50 cm",
-      "price": 1650,
+      "price": 1770,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3004,7 +4034,7 @@
       "id": "b1617e5d-c2a3-4d03-8891-057dd9da99c5",
       "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
       "size_name": "28 cm",
-      "price": 830,
+      "price": 890,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3013,7 +4043,7 @@
       "id": "9d24c76d-5e97-466f-86e0-b23daa7106a0",
       "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
       "size_name": "32 cm",
-      "price": 1010,
+      "price": 1090,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3022,7 +4052,7 @@
       "id": "4f54497e-3db0-4757-a714-f944b1d4fe39",
       "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
       "size_name": "42 cm",
-      "price": 1380,
+      "price": 1500,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3031,7 +4061,7 @@
       "id": "4c9230cc-7516-40b3-b447-e202c00b8b30",
       "menu_item_id": "c69a36e5-8ce2-489b-90eb-c950084bb61f",
       "size_name": "50 cm",
-      "price": 1750,
+      "price": 1870,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3040,7 +4070,7 @@
       "id": "0cadb81c-7c39-49d3-a5dd-f0f80243d0bc",
       "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
       "size_name": "28 cm",
-      "price": 950,
+      "price": 1010,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3049,7 +4079,7 @@
       "id": "1811aa90-3e18-4e7f-b9d7-85946c5b848d",
       "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
       "size_name": "32 cm",
-      "price": 1150,
+      "price": 1230,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3058,7 +4088,7 @@
       "id": "f0b9a74b-cbca-43ae-817f-99b564b9ccff",
       "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
       "size_name": "42 cm",
-      "price": 1520,
+      "price": 1640,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3067,7 +4097,7 @@
       "id": "78e96451-0d9b-44c8-8db9-4f771912d3de",
       "menu_item_id": "dd2710b3-74f1-4da1-9d75-32114192d00f",
       "size_name": "50 cm",
-      "price": 1920,
+      "price": 2040,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3076,7 +4106,7 @@
       "id": "6b143579-4afc-423c-84ac-36b7154320bf",
       "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
       "size_name": "28 cm",
-      "price": 730,
+      "price": 790,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3085,7 +4115,7 @@
       "id": "e82ba305-ca25-43ea-a988-dcc4ad16e00e",
       "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
       "size_name": "32 cm",
-      "price": 920,
+      "price": 1000,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3094,7 +4124,7 @@
       "id": "e037f815-d8c2-4ede-a867-e7a44143e48d",
       "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
       "size_name": "42 cm",
-      "price": 1200,
+      "price": 1320,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3103,7 +4133,7 @@
       "id": "3a071143-9afb-4e3a-965a-5642dd6e7525",
       "menu_item_id": "e1b168b3-5ae6-4ac2-b602-6eb7d2ffa8d5",
       "size_name": "50 cm",
-      "price": 1580,
+      "price": 1700,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3112,7 +4142,7 @@
       "id": "20ba59b9-db9a-4d2d-8377-e0137cf9a0c5",
       "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
       "size_name": "28 cm",
-      "price": 890,
+      "price": 950,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3121,7 +4151,7 @@
       "id": "b193ddc9-145f-4797-8ae2-64e46417ddb0",
       "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
       "size_name": "32 cm",
-      "price": 1080,
+      "price": 1160,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3130,7 +4160,7 @@
       "id": "e2e68d3a-c91b-45b5-b7c4-1a792f2152ee",
       "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
       "size_name": "42 cm",
-      "price": 1440,
+      "price": 1560,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3139,7 +4169,7 @@
       "id": "d9223dcf-7151-4da8-b236-3881aea6a170",
       "menu_item_id": "e56e067c-5524-459a-8bc7-bece3f47a930",
       "size_name": "50 cm",
-      "price": 1880,
+      "price": 2000,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3148,7 +4178,7 @@
       "id": "2be34052-8207-4d4e-bc64-6d722030c65e",
       "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
       "size_name": "28 cm",
-      "price": 720,
+      "price": 780,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3157,7 +4187,7 @@
       "id": "c2f4755c-4fdc-4e0d-a330-56766178a1f3",
       "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
       "size_name": "32 cm",
-      "price": 910,
+      "price": 990,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3166,7 +4196,7 @@
       "id": "1aba5b42-cfb4-4bf9-ab25-1568cac75a83",
       "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
       "size_name": "42 cm",
-      "price": 1180,
+      "price": 1300,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3175,7 +4205,7 @@
       "id": "fd99b4b4-dafb-454d-aedd-3c27f46fdf28",
       "menu_item_id": "ee1f253a-69eb-4a46-a5f1-f4dad639d8df",
       "size_name": "50 cm",
-      "price": 1530,
+      "price": 1650,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3184,7 +4214,7 @@
       "id": "b0344cf1-4b88-4929-8986-dcc148def02c",
       "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
       "size_name": "28 cm",
-      "price": 750,
+      "price": 800,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3193,7 +4223,7 @@
       "id": "296c4780-60ed-492f-8170-40673e7781ec",
       "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
       "size_name": "32 cm",
-      "price": 930,
+      "price": 1010,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3202,7 +4232,7 @@
       "id": "832179a1-9305-4a63-9608-4b1692696232",
       "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
       "size_name": "42 cm",
-      "price": 1210,
+      "price": 1330,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3211,7 +4241,7 @@
       "id": "9f72e6f6-674b-4b20-a4a3-07ab510dcb14",
       "menu_item_id": "fd04a79a-3984-495a-bbe9-86f5524b9fd6",
       "size_name": "50 cm",
-      "price": 1580,
+      "price": 1700,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
