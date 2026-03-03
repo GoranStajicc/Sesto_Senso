@@ -1085,10 +1085,10 @@
     {
       "id": "09d876b7-bdfa-45f3-9677-1a18fe237b83",
       "category_id": "660294e9-1233-4ddf-beea-989aa63d13e7",
-      "name": "Nektar sok",
+      "name": "Nektar Sokovi",
       "description": "",
       "price": 300,
-      "image_url": "/pića/nektar sokovi.jpg",
+      "image_url": "/pića/Nektar Sokovi.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 3,
