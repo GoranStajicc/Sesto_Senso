@@ -1753,10 +1753,10 @@
     {
       "id": "096066be-b9b9-4d5b-ac70-f5d87624c37c",
       "category_id": "ab6e3102-b45c-477a-a005-79de567085e6",
-      "name": "Pasta di pollo",
+      "name": "Pasta Pesto di pollo",
       "description": "Pesto đenoveze, piletina, pančeta, pavlaka, začini",
       "price": 810,
-      "image_url": "/paste/pasta pollo.jpg",
+      "image_url": "/paste/pasta di pollo.jpg",
       "is_available": true,
       "is_featured": false,
       "display_order": 7,
