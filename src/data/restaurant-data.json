@@ -788,7 +788,7 @@
     {
       "id": "db6facd7-65bd-4f15-b756-0448000e670a",
       "category_id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
-      "name": "Napoli salata",
+      "name": "Sesto Senso salata",
       "description": "mix zelenih salata, piletina, pančeta, kuvano jaje, grilovane pečurke, dresing",
       "price": 880,
       "image_url": "",
@@ -1766,7 +1766,7 @@
     {
       "id": "fb27554d-6df9-4c0c-b7ae-a27b588c9786",
       "category_id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
-      "name": "Napoli sendvič",
+      "name": "Sesto Senso sendvič",
       "description": "Pavlaka, kačkavalj, pečenica, suvi vrat, paradajz",
       "price": 610,
       "image_url": "/sendvici/napoli sendvic.jpg",
@@ -1985,7 +1985,7 @@
     {
       "id": "97bab38c-48c4-4ec5-9faa-da601031ebdc",
       "category_id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
-      "name": "Napoli piletina",
+      "name": "Sesto Senso piletina",
       "description": "300 grama - Lepinja, pileći file, pršuta, kačkavalj, belo vino, žalfija, pomfrit, salata",
       "price": 1050,
       "image_url": "/jela po porudzbini/napoli piletina.jpg",
@@ -2165,7 +2165,7 @@
     {
       "id": "8637d2c0-8ecd-41d9-b8ca-5e51fc21d4c6",
       "category_id": "941265f2-340c-4671-95ed-6842848089c4",
-      "name": "Napoli Doručak",
+      "name": "Sesto Senso Doručak",
       "description": "3 jaja, piletina, kukuruz, pavlaka, paradajz, rukola, tost hleb",
       "price": 530,
       "image_url": "/doručak/napoli dorucak.jpg",
@@ -2230,7 +2230,7 @@
     {
       "id": "f2ac1320-5932-4589-be5b-f5322b12248f",
       "category_id": "ab6e3102-b45c-477a-a005-79de567085e6",
-      "name": "Pasta Napoli",
+      "name": "Pasta Sesto Senso",
       "description": "Pavlaka, piletina, govedja pršuta, pečurke, tikvice, beli luk",
       "price": 870,
       "image_url": "/paste/napoli pasta.png",
