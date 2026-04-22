@@ -917,7 +917,7 @@
     {
       "id": "5df24772-54a9-4e06-919b-d9288a394525",
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
-      "name": "Palačinka",
+      "name": "Palačinka sa Šunkom",
       "description": "kačkavalj, šunka, pavlaka",
       "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka sunka.jpg",
@@ -1156,7 +1156,7 @@
     {
       "id": "f5534abd-6c27-4fc1-a332-1de24d5e5f30",
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
-      "name": "Palačinka",
+      "name": "Palačinka sa Suvim vratom",
       "description": "kačkavalj, suvi vrat, pavlaka",
       "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka suvi vrat.jpg",
@@ -1416,7 +1416,7 @@
     {
       "id": "9600743f-96a2-45a0-85c8-6e5c3f6d0d06",
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
-      "name": "Palačinka",
+      "name": "Palačinka sa Kulenom",
       "description": "kačkavalj, kulen, pavlaka",
       "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka kulen.jpg",
@@ -1624,7 +1624,7 @@
     {
       "id": "a9216f6e-ae2d-40a1-a010-4b742d81610a",
       "category_id": "463d64e1-0c96-49c4-9006-1155403fbbff",
-      "name": "Palačinka",
+      "name": "Palačinka sa Pršutom",
       "description": "kačkavalj, pršuta, pavlaka",
       "price": 460,
       "image_url": "/slane palacinke/slana zapecena palacinka prsuta.jpg",
