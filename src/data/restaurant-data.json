@@ -889,6 +889,19 @@
       "updated_at": "2025-11-28T00:00:00.000000+00:00"
     },
     {
+      "id": "f7a2c3d1-9b4e-4f6a-8c5d-2e1a3b7f9d04",
+      "category_id": "dea1a0dc-1af9-4da3-b899-3c1508649b65",
+      "name": "Som - dimljeni",
+      "description": "250 grama file, krompir, blitva, limun, lepinja",
+      "price": 1350,
+      "image_url": "/ribe/som dimljeni.jpeg",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 4,
+      "created_at": "2026-04-22T00:00:00.000000+00:00",
+      "updated_at": "2026-04-22T00:00:00.000000+00:00"
+    },
+    {
       "id": "80a5453f-5525-4da9-b430-5c2ef0215eda",
       "category_id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Žito sa šlagom",
