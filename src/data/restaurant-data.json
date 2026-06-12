@@ -3309,7 +3309,7 @@
       "id": "0bf733cd-7cc7-4471-8bac-a94aee0e0285",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "28 cm",
-      "price": 970,
+      "price": 1070,
       "is_available": true,
       "display_order": 1,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3318,7 +3318,7 @@
       "id": "361225e6-aff4-4bd8-8a46-ef27856cba88",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "32 cm",
-      "price": 1180,
+      "price": 1280,
       "is_available": true,
       "display_order": 2,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3327,7 +3327,7 @@
       "id": "6c16956d-3c44-43d3-8750-3ad124ddd04b",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "42 cm",
-      "price": 1620,
+      "price": 1720,
       "is_available": true,
       "display_order": 3,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
@@ -3336,7 +3336,7 @@
       "id": "f786d305-e871-4718-94a2-39ffb3ac09a8",
       "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
       "size_name": "50 cm",
-      "price": 2020,
+      "price": 2120,
       "is_available": true,
       "display_order": 4,
       "created_at": "2025-10-11T11:30:19.391001+00:00"
