@@ -15,8 +15,9 @@ interface MenuItemModalProps {
 
 const MENU_ITEM_ADDONS: Record<number, string[]> = {
   0: ['Kečap Ljuti', 'Kečap Blagi'],
-  100: ['Mocarela', 'Rukola', 'Pančeta', 'Feta', 'Plodovi Mora', 'Piletina', 'Čili Sos', 'Tabasko', 'Gorgonzola', 'Susam', 'Kajmak', 'Masline', 'Jaje', 'Paradajz', 'Kulen', 'Pečenica', 'Suvi Vrat', 'Pečurke', 'Šunka', 'Kačkavalj', 'Feferoni', 'Majonez', 'Pavlaka', 'Parmezan', 'Goveđa Pršuta'],
-  120: ['Njegušski pršut']
+  100: ['Mocarela', 'Rukola', 'Pančeta', 'Feta', 'Piletina', 'Čili Sos', 'Tabasko', 'Gorgonzola', 'Susam', 'Kajmak', 'Masline', 'Jaje', 'Paradajz', 'Kulen', 'Pečenica', 'Suvi Vrat', 'Pečurke', 'Šunka', 'Kačkavalj', 'Feferoni', 'Majonez', 'Pavlaka', 'Parmezan', 'Goveđa Pršuta'],
+  120: ['Njegušski pršut'],
+  150: ['Morski plodovi']
 };
 
 const BREAKFAST_ADDONS: Record<number, string[]> = {
