@@ -2732,7 +2732,7 @@
       "category_id": "43427e68-3d52-4bb2-9ce6-6ec5cdca3054",
       "name": "Marinare",
       "description": "Pelat, kačkavalj, plodovi mora, masline, origano",
-      "price": 970,
+      "price": 1070,
       "image_url": "/pice/marinara pica.jpg",
       "is_available": true,
       "is_featured": false,
@@ -2744,7 +2744,7 @@
           "id": "mari-28",
           "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
           "size_name": "28cm",
-          "price": 970,
+          "price": 1070,
           "is_available": true,
           "display_order": 1,
           "created_at": "2025-10-11T11:30:01.95968+00:00"
@@ -2753,7 +2753,7 @@
           "id": "mari-32",
           "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
           "size_name": "32cm",
-          "price": 1180,
+          "price": 1280,
           "is_available": true,
           "display_order": 2,
           "created_at": "2025-10-11T11:30:01.95968+00:00"
@@ -2762,7 +2762,7 @@
           "id": "mari-42",
           "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
           "size_name": "42cm",
-          "price": 1620,
+          "price": 1720,
           "is_available": true,
           "display_order": 3,
           "created_at": "2025-10-11T11:30:01.95968+00:00"
@@ -2771,7 +2771,7 @@
           "id": "mari-50",
           "menu_item_id": "18c2969c-3a25-4111-8308-57c5f2044218",
           "size_name": "50cm",
-          "price": 2020,
+          "price": 2120,
           "is_available": true,
           "display_order": 4,
           "created_at": "2025-10-11T11:30:01.95968+00:00"
