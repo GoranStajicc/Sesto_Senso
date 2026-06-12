@@ -15,23 +15,25 @@ interface PizzaToppingsModalProps {
 const PIZZA_ADDONS: Record<number, Record<number, string[]>> = {
   28: {
     0: ['Kečap Blagi', 'Kečap Ljuti'],
-    200: ['Ananas', 'Feferoni', 'Feta', 'Gorgonzola', 'Jaje', 'Kajmak', 'Kačkavalj', 'Kulen', 'Majonez', 'Masline', 'Mocarela', 'Morski plodovi', 'Paradajz', 'Parmezan', 'Pavlaka', 'Pečenica', 'Pečurke', 'Piletina', 'Punjena ivica', 'Rukola', 'Susam', 'Suvi vrat', 'Tabasko', 'Čili sos', 'Šunka'],
-    250: ['Pršuta']
+    200: ['Ananas', 'Feferoni', 'Feta', 'Gorgonzola', 'Jaje', 'Kajmak', 'Kačkavalj', 'Kulen', 'Majonez', 'Masline', 'Mocarela', 'Paradajz', 'Parmezan', 'Pavlaka', 'Pečenica', 'Pečurke', 'Piletina', 'Punjena ivica', 'Rukola', 'Susam', 'Suvi vrat', 'Tabasko', 'Čili sos', 'Šunka'],
+    250: ['Pršuta', 'Morski plodovi']
   },
   32: {
     0: ['Kečap Blagi', 'Kečap Ljuti'],
     250: ['Ananas', 'Feferoni', 'Feta', 'Gorgonzola', 'Jaje', 'Kajmak', 'Kačkavalj', 'Kulen', 'Majonez', 'Masline', 'Mocarela', 'Morski plodovi', 'Paradajz', 'Parmezan', 'Pavlaka', 'Pečenica', 'Pečurke', 'Piletina', 'Punjena ivica', 'Rukola', 'Susam', 'Suvi vrat', 'Tabasko', 'Čili sos', 'Šunka'],
-    300: ['Pršuta']
+    300: ['Pršuta', 'Morski plodovi']
   },
   42: {
     0: ['Kečap Blagi', 'Kečap Ljuti'],
     300: ['Ananas', 'Feferoni', 'Feta', 'Jaje', 'Kulen', 'Majonez', 'Masline', 'Paradajz', 'Pavlaka', 'Pečenica', 'Pečurke', 'Rukola', 'Susam', 'Suvi vrat', 'Čili sos', 'Šunka'],
-    350: ['Gorgonzola', 'Kajmak', 'Kačkavalj', 'Mocarela', 'Morski plodovi', 'Parmezan', 'Piletina', 'Pršuta', 'Punjena ivica', 'Tabasko']
+    350: ['Gorgonzola', 'Kajmak', 'Kačkavalj', 'Mocarela', 'Morski plodovi', 'Parmezan', 'Piletina', 'Pršuta', 'Punjena ivica', 'Tabasko'],
+    400: ['Morski plodovi']
   },
   50: {
     0: ['Kečap Blagi', 'Kečap Ljuti'],
     350: ['Ananas', 'Feferoni', 'Feta', 'Jaje', 'Kulen', 'Majonez', 'Masline', 'Paradajz', 'Pavlaka', 'Pečenica', 'Pečurke', 'Rukola', 'Susam', 'Suvi vrat', 'Čili sos', 'Šunka'],
-    400: ['Gorgonzola', 'Kajmak', 'Kačkavalj', 'Mocarela', 'Morski plodovi', 'Parmezan', 'Piletina', 'Pršuta', 'Punjena ivica', 'Tabasko']
+    400: ['Gorgonzola', 'Kajmak', 'Kačkavalj', 'Mocarela', 'Morski plodovi', 'Parmezan', 'Piletina', 'Pršuta', 'Punjena ivica', 'Tabasko'],
+    450: ['Morski plodovi']
   }
 };
 
