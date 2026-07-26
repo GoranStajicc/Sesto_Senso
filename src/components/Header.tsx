@@ -31,7 +31,7 @@ export default function Header({ onCartClick, onMenuClick }: HeaderProps) {
               alt="Pizza Napoli Logo"
               className="h-12 sm:h-14 object-contain"
             />
-            <h1 className="text-2xl sm:text-3xl font-bold text-[#FF6B35] tracking-tight group-hover:text-[#e55a2a] transition-colors" style={{ fontFamily: "'Playfair Display', serif" }}>Napoli</h1>
+            <h1 className="text-2xl sm:text-3xl font-bold text-[#FF6B35] tracking-tight group-hover:text-[#e55a2a] transition-colors" style={{ fontFamily: "'Playfair Display', serif" }}>Sesto Senso</h1>
           </div>
 
           <nav className="hidden md:flex space-x-10">
