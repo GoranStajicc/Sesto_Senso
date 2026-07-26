@@ -5,12 +5,12 @@ interface HeroProps {
 
 export default function Hero({ onOrderClick, onCartClick }: HeroProps) {
   return (
-    <section className="relative text-white pt-24 pb-16 sm:pt-32 sm:pb-24 overflow-hidden min-h-[600px] sm:min-h-[700px] flex items-center">
+    <section className="relative text-white pt-44 pb-16 sm:pt-52 sm:pb-24 overflow-hidden min-h-[600px] sm:min-h-[700px] flex items-center">
       {/* Background Image */}
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "url('/images/WhatsApp Image 2025-10-14 at 20.19.39_8878c8d6.jpg')"
+          backgroundImage: "url('/images/whatsapp_image_2025-10-14_at_20.19.39_8878c8d6.jpg')"
         }}
       ></div>
 
@@ -26,7 +26,7 @@ export default function Hero({ onOrderClick, onCartClick }: HeroProps) {
             Autentična italijanska kuhinja u srcu Srbije
           </p>
           <p className="text-sm sm:text-base md:text-lg mb-6 sm:mb-10 max-w-2xl mx-auto leading-relaxed px-2 drop-shadow-[0_2px_6px_rgba(0,0,0,0.8)]">
-            Tradicionalne recepte donosimo pravo do vaših vrata. Svaka pica, svaki obrok pripremljen sa ljubavlju i pažnjom. ❤️
+            Tradicionalne recepte donosimo pravo do vaših vrata. Svaka pica, svaki obrok pripremljen sa ljubavlju i pažnjom ❤️
           </p>
           <div className="flex justify-center px-4">
             <button
