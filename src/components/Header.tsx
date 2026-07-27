@@ -1,7 +1,6 @@
 import { ShoppingCart, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { useCart } from '../context/CartContext';
-import AnnouncementBanner from './AnnouncementBanner';
 
 interface HeaderProps {
   onCartClick: () => void;
@@ -21,7 +20,6 @@ export default function Header({ onCartClick, onMenuClick }: HeaderProps) {
 
   return (
     <header className="fixed w-full top-0 z-50">
-      <AnnouncementBanner />
       <div className="bg-[#1A1A1A]/95 backdrop-blur-sm shadow-soft border-b border-[#FF6B35]/20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16 sm:h-20">
@@ -31,7 +29,7 @@ export default function Header({ onCartClick, onMenuClick }: HeaderProps) {
               alt="Pizza Napoli Logo"
               className="h-12 sm:h-14 object-contain"
             />
-            <h1 className="text-2xl sm:text-3xl font-bold text-[#FF6B35] tracking-tight group-hover:text-[#e55a2a] transition-colors" style={{ fontFamily: "'Playfair Display', serif" }}>Sesto Senso</h1>
+            <h1 className="text-2xl sm:text-3xl font-bold text-[#FF6B35] tracking-tight group-hover:text-[#e55a2a] transition-colors" style={{ fontFamily: "'Playfair Display', serif" }}>Napoli</h1>
           </div>
 
           <nav className="hidden md:flex space-x-10">
