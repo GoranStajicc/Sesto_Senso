@@ -1,7 +1,7 @@
 import { ShoppingCart, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { useCart } from '../context/CartContext';
-import AnnouncementBanner from './AnnouncementBanner';
+
 
 interface HeaderProps {
   onCartClick: () => void;
