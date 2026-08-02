@@ -45,7 +45,7 @@ export default function Contact() {
             </div>
             <h3 className="font-bold text-white mb-3 text-lg tracking-tight">Adresa 📍</h3>
             <p className="text-gray-300">
-              Bulevar Zorana Đinđića 85<br />
+              Nedeljka Gvozdenovića 23G<br />
             </p>
           </div>
 
