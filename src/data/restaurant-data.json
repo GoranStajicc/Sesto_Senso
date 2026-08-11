@@ -440,7 +440,7 @@
       "description": "Ljuto",
       "price": 820,
       "image_url": "",
-      "is_available": true,
+      "is_available": false,
       "is_featured": false,
       "display_order": 0,
       "created_at": "2025-10-11T15:35:13.922123+00:00",
