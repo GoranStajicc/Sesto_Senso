@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
-import { X, CreditCard, Banknote } from 'lucide-react';
+import { X, CreditCard, Banknote, AlertCircle } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import PostalCodeSelector from './PostalCodeSelector';
+import { getZoneByName } from '../data/deliveryZones';
 import type { Customer } from '../types';
 
 interface CheckoutProps {
@@ -25,9 +26,22 @@ export default function Checkout({ isOpen, onClose, onSuccess }: CheckoutProps) 
 
   const [apartmentDetails, setApartmentDetails] = useState('');
   const [notes, setNotes] = useState('');
+  const [showMinOrderModal, setShowMinOrderModal] = useState(false);
+
+  const selectedZone = getZoneByName(formData.postal_code);
+  const zoneMinimum = selectedZone?.minimum;
+  const hasZone = !!selectedZone;
+  const meetsMinimum = hasZone && zoneMinimum !== undefined && totalAmount >= zoneMinimum;
+  const missingAmount = hasZone && zoneMinimum !== undefined ? Math.max(0, zoneMinimum - totalAmount) : 0;
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+
+    // Authoritative validation: do not trust the button's disabled state.
+    if (!hasZone || !meetsMinimum) {
+      setShowMinOrderModal(true);
+      return;
+    }
 
     const form = e.target as HTMLFormElement;
     const formDataToSend = new FormData(form);
@@ -88,6 +102,7 @@ export default function Checkout({ isOpen, onClose, onSuccess }: CheckoutProps) 
 
             <input type="hidden" name="payment_method" value={paymentMethod} />
             <input type="hidden" name="total_amount" value={totalAmount.toFixed(2)} />
+            <input type="hidden" name="delivery_zone" value={formData.postal_code} />
             <input
               type="hidden"
               name="delivery_address"
@@ -221,7 +236,7 @@ export default function Checkout({ isOpen, onClose, onSuccess }: CheckoutProps) 
                 </div>
                 <div>
                   <label className="block text-xs sm:text-sm font-medium text-gray-300 mb-2">
-                    Poštanski broj *
+                    Zona dostave *
                   </label>
                   <PostalCodeSelector
                     value={formData.postal_code}
@@ -255,13 +270,37 @@ export default function Checkout({ isOpen, onClose, onSuccess }: CheckoutProps) 
             </div>
 
             <div className="border-t border-[#FF6B35]/20 pt-5 sm:pt-6">
-              <div className="flex justify-between items-center text-lg sm:text-xl font-bold mb-5 sm:mb-6">
+              <div className="flex justify-between items-center text-lg sm:text-xl font-bold mb-3 sm:mb-4">
                 <span className="text-white">Ukupno:</span>
                 <span className="text-[#FF6B35]">{totalAmount.toFixed(2)} RSD</span>
               </div>
+
+              {!hasZone && (
+                <p className="text-sm text-yellow-400 mb-3 sm:mb-4">
+                  Molimo izaberite zonu dostave da biste nastavili.
+                </p>
+              )}
+
+              {hasZone && meetsMinimum && (
+                <p className="text-sm text-[#4CAF50] mb-3 sm:mb-4">
+                  Uslovi za besplatnu dostavu su ispunjeni.
+                </p>
+              )}
+
+              {hasZone && !meetsMinimum && (
+                <p className="text-sm text-red-400 mb-3 sm:mb-4">
+                  Uslovi za besplatnu dostavu nisu ispunjeni. Do besplatne dostave fali još {missingAmount} RSD. Radi poručivanja molimo dostignite minimum. Hvala. Kontakt telefon: +381 64 111 6 999
+                </p>
+              )}
+
               <button
                 type="submit"
-                className="w-full bg-[#4CAF50] text-white py-4 rounded-lg font-semibold text-base sm:text-lg hover:bg-[#3d8b40] transition-colors shadow-lg hover:shadow-xl min-h-[52px] active:scale-98"
+                disabled={!hasZone || !meetsMinimum}
+                className={`w-full py-4 rounded-lg font-semibold text-base sm:text-lg transition-colors shadow-lg hover:shadow-xl min-h-[52px] active:scale-98 ${
+                  hasZone && meetsMinimum
+                    ? 'bg-[#4CAF50] text-white hover:bg-[#3d8b40]'
+                    : 'bg-gray-600 text-gray-300 cursor-not-allowed'
+                }`}
               >
                 Potvrdi porudžbinu
               </button>
@@ -269,6 +308,47 @@ export default function Checkout({ isOpen, onClose, onSuccess }: CheckoutProps) 
           </form>
         </div>
       </div>
+
+      {showMinOrderModal && (
+        <div
+          className="fixed inset-0 bg-black bg-opacity-70 z-[60] flex items-center justify-center p-4"
+          onClick={() => setShowMinOrderModal(false)}
+        >
+          <div
+            className="bg-[#2A2A2A] rounded-xl shadow-2xl max-w-md w-full p-6 sm:p-8 border border-red-500/40"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="flex items-start justify-between mb-4">
+              <div className="flex items-center gap-3">
+                <AlertCircle className="h-8 w-8 text-red-400 flex-shrink-0" />
+                <h3 className="text-xl font-bold text-white">Porudžbina nije moguća</h3>
+              </div>
+              <button
+                onClick={() => setShowMinOrderModal(false)}
+                className="p-2 hover:bg-[#FF6B35]/10 rounded-full transition-colors text-gray-300"
+                aria-label="Zatvori"
+              >
+                <X className="h-6 w-6" />
+              </button>
+            </div>
+            <div className="space-y-3 text-sm text-gray-200">
+              {!hasZone ? (
+                <p>Molimo izaberite zonu dostave da biste nastavili.</p>
+              ) : (
+                <p>
+                  Uslovi za besplatnu dostavu nisu ispunjeni. Do besplatne dostave fali još {missingAmount} RSD. Radi poručivanja molimo dostignite minimum. Hvala. Kontakt telefon: +381 64 111 6 999
+                </p>
+              )}
+            </div>
+            <button
+              onClick={() => setShowMinOrderModal(false)}
+              className="w-full mt-6 bg-[#FF6B35] text-white py-3 rounded-lg font-semibold hover:bg-[#e55a2a] transition-colors"
+            >
+              U redu
+            </button>
+          </div>
+        </div>
+      )}
     </>
   );
 }
