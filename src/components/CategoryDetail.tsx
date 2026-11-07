@@ -74,6 +74,8 @@ export default function CategoryDetail({ category, onBack, scrollPosition }: Cat
                        category.name.toLowerCase().includes('pasta') ||
                        category.name.toLowerCase().includes('doručak') ||
                        category.name.toLowerCase().includes('dorucak') ||
+                       category.name.toLowerCase().includes('uštipci') ||
+                       category.name.toLowerCase().includes('ustipci') ||
                        category.name.toLowerCase().includes('slatke palačinke') ||
                        category.name.toLowerCase().includes('slatke palacinke') ||
                        category.name.toLowerCase().includes('slane palačinke') ||
