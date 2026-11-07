@@ -38,6 +38,18 @@ const SALTY_PANCAKE_ADDONS: Record<number, string[]> = {
   150: ['Pohovanje']
 };
 
+const SAVORY_USTIPCI_ADDONS: Record<number, string[]> = {
+  0: ['Kečap blagi', 'Kečap ljuti'],
+  60: ['Pavlaka'],
+  80: ['Majonez'],
+  100: ['Tartar sos']
+};
+
+const SWEET_USTIPCI_ADDONS: Record<number, string[]> = {
+  150: ['Eurokrem'],
+  180: ['Nutela']
+};
+
 const NEKTAR_FLAVORS: Record<number, string[]> = {
   0: []
 };
@@ -86,6 +98,8 @@ export default function MenuItemModal({
   const isBreakfast = categoryName?.toLowerCase().includes('doručak') || categoryName?.toLowerCase().includes('dorucak');
   const isSweetPancake = categoryName?.toLowerCase().includes('slatke palačinke') || categoryName?.toLowerCase().includes('slatke palacinke');
   const isSaltyPancake = categoryName?.toLowerCase().includes('slane palačinke') || categoryName?.toLowerCase().includes('slane palacinke');
+  const isUstipci = categoryName?.toLowerCase().includes('uštipci') || categoryName?.toLowerCase().includes('ustipci');
+  const isSweetUstipak = isUstipci && /eurokrem|nutela/i.test(itemName);
   const isPasta = categoryName?.toLowerCase().includes('paste') || categoryName?.toLowerCase().includes('pasta');
   const isLasagna = itemName?.toLowerCase().includes('lazanje');
   const isNektarSok = itemName?.toLowerCase().includes('nektar');
@@ -97,6 +111,8 @@ export default function MenuItemModal({
   let addonsToUse = MENU_ITEM_ADDONS;
   if (isNektarSok) {
     addonsToUse = NEKTAR_FLAVORS;
+  } else if (isUstipci) {
+    addonsToUse = isSweetUstipak ? SWEET_USTIPCI_ADDONS : SAVORY_USTIPCI_ADDONS;
   } else if (isBreakfast) {
     addonsToUse = BREAKFAST_ADDONS;
   } else if (isSweetPancake) {
