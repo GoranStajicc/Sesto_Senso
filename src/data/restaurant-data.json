@@ -20,10 +20,19 @@
       "image_url": "/doručak/virsle i jaja.jpg"
     },
     {
+      "id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Domaći punjeni uštipci",
+      "slug": "domaci-punjeni-ustipci",
+      "display_order": 3,
+      "is_active": true,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "image_url": ""
+    },
+    {
       "id": "1f8e6c70-134d-4e9a-949a-3a434d843f97",
       "name": "Italijanski specijaliteti",
       "slug": "italijanski-specijaliteti",
-      "display_order": 3,
+      "display_order": 4,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/italijanski specijaliteti/piroske obicne.jpg"
@@ -32,7 +41,7 @@
       "id": "0451c2b6-e1bb-47a6-aef1-7b06225574bf",
       "name": "Jela po porudžbini",
       "slug": "jela-po-porudzbini",
-      "display_order": 4,
+      "display_order": 5,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/jela po porudzbini/pileci stapici.jpg"
@@ -41,7 +50,7 @@
       "id": "ab6e3102-b45c-477a-a005-79de567085e6",
       "name": "Pasta",
       "slug": "pasta",
-      "display_order": 5,
+      "display_order": 6,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/paste/pasta bolonjeze.jpg"
@@ -50,7 +59,7 @@
       "id": "dea1a0dc-1af9-4da3-b899-3c1508649b65",
       "name": "Riba",
       "slug": "riba",
-      "display_order": 6,
+      "display_order": 7,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/ribe/pastrmka.jpg"
@@ -59,7 +68,7 @@
       "id": "c3968315-832d-4242-9ca7-5f491ce9aab8",
       "name": "Čorbe",
       "slug": "corbe",
-      "display_order": 7,
+      "display_order": 8,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/corbe/paradajz corba.jpg"
@@ -68,7 +77,7 @@
       "id": "020fa120-c991-45b5-9087-462107d3727d",
       "name": "Kuvana jela",
       "slug": "kuvana-jela",
-      "display_order": 8,
+      "display_order": 9,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/kuvana jela/cufte.jpg"
@@ -77,7 +86,7 @@
       "id": "3fb3645a-8685-4724-8a3e-476ae87db8fc",
       "name": "Rižoto",
       "slug": "rizoto",
-      "display_order": 9,
+      "display_order": 10,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/rizoto/rizoto frutti di mare.jpg"
@@ -86,7 +95,7 @@
       "id": "f14df0df-c40a-444f-8b57-a02e3a4357e8",
       "name": "Salate",
       "slug": "salate",
-      "display_order": 10,
+      "display_order": 11,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/salate/grcka salata.jpg"
@@ -95,7 +104,7 @@
       "id": "1e17a9a1-331b-43ac-a7d5-f1a93237f35c",
       "name": "Sendviči",
       "slug": "sendvici",
-      "display_order": 11,
+      "display_order": 12,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/sendvici/tost prsuta.jpg"
@@ -104,7 +113,7 @@
       "id": "a05b99f8-d266-497d-944f-40bf6d544bb1",
       "name": "Tortilje",
       "slug": "tortilje",
-      "display_order": 12,
+      "display_order": 13,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/tortilje/tortilja bolonjeze.jpg"
@@ -113,7 +122,7 @@
       "id": "2c3a2676-5375-468d-84f0-5ca13f993fbf",
       "name": "Deserti",
       "slug": "deserti",
-      "display_order": 13,
+      "display_order": 14,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/deserti/ledena kocka.jpg"
@@ -122,7 +131,7 @@
       "id": "463d64e1-0c96-49c4-9006-1155403fbbff",
       "name": "Slane palačinke",
       "slug": "slane-palacinke",
-      "display_order": 14,
+      "display_order": 15,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/slane palacinke/slana zapecena palacinka suvi vrat.jpg"
@@ -131,7 +140,7 @@
       "id": "472c9daa-44ba-4f50-95d2-b1f794f3bac7",
       "name": "Slatke palačinke",
       "slug": "slatke-palacinke",
-      "display_order": 15,
+      "display_order": 16,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/slatke palacinke/palacinka krem.jpg"
@@ -140,7 +149,7 @@
       "id": "660294e9-1233-4ddf-beea-989aa63d13e7",
       "name": "Pića",
       "slug": "pica-napici",
-      "display_order": 16,
+      "display_order": 17,
       "is_active": true,
       "created_at": "2025-10-11T11:12:21.550646+00:00",
       "image_url": "/pića/Pića.jpg"
@@ -791,7 +800,7 @@
       "name": "Sesto Senso salata",
       "description": "mix zelenih salata, piletina, pančeta, kuvano jaje, grilovane pečurke, dresing",
       "price": 880,
-      "image_url": "/salate/napoli salata.jpeg",
+      "image_url": "public/salate/napoli salata.jpeg",
       "is_available": true,
       "is_featured": false,
       "display_order": 2,
@@ -3185,6 +3194,201 @@
           "created_at": "2025-10-11T11:30:01.95968+00:00"
         }
       ]
+    },
+    {
+      "id": "7a7ffbeb-9985-4176-a342-223fdc6557b8",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Šunka",
+      "description": "šunka, kačkavalj, 300gr",
+      "price": 600,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 1,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "58971bca-570a-422e-a8fa-4709010aff87",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Dimljeni vrat",
+      "description": "dimljeni vrat, kačkavalj, 300gr",
+      "price": 610,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 2,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "55a29a7b-218b-4277-8aa3-3de89559b405",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Pečenica",
+      "description": "pečenica, kačkavalj, 300gr",
+      "price": 610,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 3,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "3e039320-4ec6-401a-89f1-a1fc1e79d436",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Kulen",
+      "description": "kulen, kačkavalj, 300gr",
+      "price": 620,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 4,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "cc9a89e7-4c7c-41a3-a6af-4bcf367dd3f6",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Njeguška Pršuta",
+      "description": "njeguška pršuta, kačkavalj, 300gr",
+      "price": 650,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 5,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "ac7894a1-533a-46c5-bb58-b7220c848a20",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Govedja Pršuta",
+      "description": "govedja pršuta, kačkavalj, 300gr",
+      "price": 680,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 6,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "761d1c2c-ad0f-481a-a0e1-6cb9410bc627",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Pizza",
+      "description": "šunka, kačkavalj, šampinjoni, kečap, origano, 300gr",
+      "price": 650,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 7,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "8bec6f3d-487f-4282-b4eb-a5a1c81d494d",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Eurokrem i Jagoda",
+      "description": "eurokrem, jagoda, 300gr",
+      "price": 450,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 8,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "1122863e-09a6-4b03-b805-a63617a5789e",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Eurokrem i Višnja",
+      "description": "eurokrem, višnja, 300gr",
+      "price": 450,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 9,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "b89c4136-f217-4d3e-802f-ed79ecb2fca8",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Eurokrem i Kupina",
+      "description": "eurokrem, kupina, 300gr",
+      "price": 450,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 10,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "f648b0d1-d4f8-4f1c-a26a-0f1dcf21a88f",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Eurokrem i Malina",
+      "description": "eurokrem, malina, 300gr",
+      "price": 450,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 11,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "38ba2d71-1424-4057-9fd4-fe0dbe1a45e2",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Nutela i Jagoda",
+      "description": "nutela, jagoda, 300gr",
+      "price": 510,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 12,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "c9fb6e36-c166-4220-8070-2184c8f02475",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Nutela i Višnja",
+      "description": "nutela, višnja, 300gr",
+      "price": 510,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 13,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "30c65bce-b7f6-4827-a2ce-126756a0e136",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Nutela i Kupina",
+      "description": "nutela, kupina, 300gr",
+      "price": 510,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 14,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
+    },
+    {
+      "id": "35e39e42-d52a-4a6b-a186-a985e2ee2626",
+      "category_id": "7b2d9e41-5c3a-4f8e-9a61-2e4b8c7d1f03",
+      "name": "Uštipak Nutela i Malina",
+      "description": "nutela, malina, 300gr",
+      "price": 510,
+      "image_url": "",
+      "is_available": true,
+      "is_featured": false,
+      "display_order": 15,
+      "created_at": "2026-11-07T12:00:00.000000+00:00",
+      "updated_at": "2026-11-07T12:00:00.000000+00:00"
     }
   ],
   "menuItemSizes": [
